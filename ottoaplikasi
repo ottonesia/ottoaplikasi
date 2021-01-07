@@ -315,22 +315,18 @@ http://vp2p2s.my6868.cc/20413/ottoaplikasi.m3u8
 //SPORT
 
 #EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS", ASTRO SUPERSPORT 1
-http://vp2p2s.my6868.cc/20414/ottoaplikasi.m3u8
+http://vp2p2s.my6868.cc/20414/ottoaplikasi.m3u8.ts
 
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS", ASTRO SUPERSPORT 2
-http://vp2p2s.my6868.cc/20415/ottoaplikasi.m3u8
+#EXTINF:-1 tvg-id="AS2.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS", ASTRO SUPERSPORT 2
+http://vp2p2s.my6868.cc/20415/ottoaplikasi.m3u8.ts
 
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS",ASTRO SUPERSPORT 3
-http://vp2p2s.my6868.cc/20416/ottoaplikasi.m3u8
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS",ASTRO SUPERSPORT 3
+http://vp2p2s.my6868.cc/20416/ottoaplikasi.m3u8.ts
 
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS",ASTRO SUPERSPORT 4
-http://vp2p2s.my6868.cc/20417/ottoaplikasi.m3u8
+#EXTINF:-1 tvg-id="AS4.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS",ASTRO SUPERSPORT 4
+http://vp2p2s.my6868.cc/20417/ottoaplikasi.m3u8.ts
 
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="SPORTS", ASTRO ARENA
-http://vp2p2s.my6868.cc/20422/ottoaplikasi.m3u8
-
-
-
+#
 
 
 //ASTRO & MY
