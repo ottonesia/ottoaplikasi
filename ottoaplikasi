@@ -1,4 +1,9 @@
 #EXTM3U
+x-url-tvg="https://ottoaplikasi.github.io/MY_Astro.xml"
+x-url-tvg="https://ottoaplikasi.github.io/MY-Freeview.xml"
+x-url-tvg="https://ottoaplikasi.github.io/otto-epg1.xml"
+x-url-tvg="https://ottoaplikasi.github.io/otto-epg2.xml"
+
 //INDONESIA
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
