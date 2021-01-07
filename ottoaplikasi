@@ -56,32 +56,52 @@ http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",GEMILANG TV
 http://stream1.ninmedia.tv:1935/gemilangtv/rtmp.stream_360p/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",JAMBI TV
 http://stream1.ninmedia.tv:1935/jambitv/rtmp.stream_360p/playlist.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="MY",Live Makkah 
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="ID",Maleo
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-250px-1-234x300.png" group-title="ID",NU Channel
 http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",PAL TV
 http://stream1.ninmedia.tv:1935/paltv/rtmp.stream_360p/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="ID",POP MUSIK
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",RB TV
 http://stream1.ninmedia.tv:1935/rbtv/rtmp.stream_360p/playlist.m3u8
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",RCTV
 http://stream1.ninmedia.tv:1935/rctv/rtmp.stream_360p/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RRI-net-250px.png" group-title="ID",RRI Net
 http://stream1.ninmedia.tv:1935/rrinet/udp.stream_360p/playlist.m3u8
-
 
 
 //MALAYSIA
@@ -197,36 +217,69 @@ https://raw.githubusercontent.com/angahjee1994/tv/master/red.m3u8
 #EXTINF:-1 tvg-name="304" tvg-id="CNX.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="MOVIES",CINEMAX
 https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox.jpg" group-title="MOVIES", FOX
 https://delivery.macan.tv/stream/id_fox/playlist.m3u8?token=rvsx2&v=20200807 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_crime.png" group-title="MOVIES", FOX Crime
 https://delivery.macan.tv/stream/id_foxcrime/playlist.m3u8?token=rvsx2&v=20200807 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_life.png" group-title="MOVIES", FOX Life
 https://delivery.macan.tv/stream/id_foxlife/playlist.m3u8?token=rvsx2&v=20200807 
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_movies_premium.png" group-title="MOVIES", FOX Movies Premium
 https://delivery.macan.tv/stream/id_foxmoviespremium/playlist.m3u8?token=rvsx2&v=20200807 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_action_movies.png" group-title="MOVIES", FOX Action Movies
 https://delivery.macan.tv/stream/id_foxactionmovies/playlist.m3u8?token=rvsx2&v=20200807
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png" group-title="MOVIES", FOX Family Movie
 https://delivery.macan.tv/stream/foxfamilymovies_idn/playlist.m3u8?token=rvsx2&v=20200807 
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo.png" group-title="MOVIES", HBO
 https://delivery.macan.tv/stream/hbo/playlist.m3u8?token=rvsx2&v=20200807 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_family.png" group-title="MOVIES", HBO Family
 https://delivery.macan.tv/stream/hbo_family/playlist.m3u8?token=rvsx2&v=20200807 
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_hits.png" group-title="MOVIES", HBO Hits
 https://delivery.macan.tv/stream/hbo_hits/playlist.m3u8?token=rvsx2&v=20200807 
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_signature.png" group-title="MOVIES", HBO Signature
 https://delivery.macan.tv/stream/hbo_signature/playlist.m3u8?token=rvsx2&v=20200807 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/red_hbo.png" group-title="MOVIES", RED by HBO
 https://delivery.macan.tv/stream/redhbo/playlist.m3u8?token=rvsx2&v=20200807 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
 #EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/cinemaxa.png" group-title="MOVIES", Cinemax by HBO
 https://delivery.macan.tv/stream/cinemax/playlist.m3u8?token=rvsx2&v=20200807
-
-
-
-
-
 
 
 
@@ -349,4 +402,412 @@ http://vp2p2s.my6868.cc/50006/ottoaplikasi.m3u8
 http://vp2p2s.my6868.cc/50041/ottoaplikasi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1280px-2019_Discovery_logo.svg.png" group-title="DISC", DISCOVERY
 http://vp2p2s.my6868.cc/50043/ottoaplikasi.m3u8
+
+//VOD
+
+
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/503.jpg" group-title="OTTO MOVIES",MULAN (2020)
+http://admin.nf21.net/go/files/17052
+#EXTINF:-1 tvg-logo="http://s0.sharemydrive.xyz/wp-content/uploads/2020/10/film-vanguard-2020-lk21.jpg" group-title="OTTO MOVIES",Vanguard (2020)
+https://www1427.ff-03.com/token=OXtkikT7tTMZ1xG3TjGI6Q/1609577098/180.251.0.0/148/7/bf/50bb67c67c73c326b9c72499a614cbf7-480p.mp4
+#EXTINF:-1 tvg-logo="http://s4.sharemydrive.xyz/wp-content/uploads/2020/09/film-fearless-kungfu-king-2020-lk21.jpg" group-title="OTTO MOVIES",Fearless Kungfu King (2020)
+http://admin.nf21.net/go/files/16916
+#EXTINF:-1 tvg-logo="http://s6.sharemydrive.xyz/wp-content/uploads/2020/09/film-zhang-sanfeng-2-tai-chi-master-2020-lk21.jpg" group-title="OTTO MOVIES",Zhang Sanfeng 2: Tai Chi Master (2020)
+http://admin.nf21.net/go/files/16795
+#EXTINF:-1 tvg-logo="http://s1.sharemydrive.xyz/wp-content/uploads/2020/05/film-unparalleled-mulan-mulan-2020-lk21.jpg" group-title="OTTO MOVIES",Unparalleled Mulan (Mulan) (2020)
+https://cloud.cdncv.net/hls/mfqjqzgkvho6sr7qw5ju3iakw2q5gyi7iunh5csvkmi7qme5olzjhascqasq/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="http://s2.sharemydrive.xyz/wp-content/uploads/2020/05/film-the-grand-grandmaster-2020-lk21.jpg" group-title="OTTO MOVIES",The Grand Grandmaster (2020)
+https://cloud.cdncv.net/hls/mfqjqvehvho6sr7qw5ke37sp7ggczgs54gqtmfi23vg7spjvk5czo5atvqqa/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="http://s6.sharemydrive.xyz/wp-content/uploads/2020/03/film-the-lockdown-one-month-in-wuhan-2020-lk21.jpg" group-title="OTTO MOVIES",The Lockdown: One Month in Wuhan (2020)
+https://cloud.cdncv.net/hls/mfqjq4a2vlo6sr7qw54u37av5rrhl3zxuec24de66kutpusq2vkit3qfen5q/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="http://s3.sharemydrive.xyz/wp-content/uploads/2020/08/film-rogue-2020-lk21.jpg" group-title="OTTO MOVIES",Rogue (2020)
+http://admin.nf21.net/go/files/16695
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/lNVHB85FUDZqLzvug3k6FA07RIr-150x225.jpg" group-title="OTTO MOVIES",Wonder Woman 1984 (2020)
+https://858142469.tapecontent.net/radosgw/0A0zPk6lYwTDzY/NSWdhq8Gc1Kk0mFmC3cw9uF_vMYNWYXDnmTdTdZpiV5C8rhqRG7W6qWvbZv84o8vh46i44G552bZqr0u5H4i2IqzQCUv1NHd3qCsFS9w3gu_b5D66Va6-F8lsFG4_pUJ2zb7fxi0QOCEbieRMAyDQgVb_0vv0c1LAep4uEVal5hsytdEVzgch_xE5Re1EaNUa_7YTF5RGCjUz6Z-8tdbIBgpImvgd9eyqZ--YuZKGgKBbEy0d6FpOlNHR00CA8dXso9e2DEtowG_EmJpifstbv9LO1xixl3ZwnP6y2ywNw_Jni6WVjSNChbD7k0/driveid-115897-terbit21-com-wonder-woman-1984-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/43MlbzxB5OohgvPHmPIvRi4MCVn-150x225.jpg" group-title="OTTO MOVIES",L.O.R.D: Legend of Ravaging Dynasties 2 (2020)
+https://868418908.tapecontent.net/radosgw/4Rk2m29gorTKwL0/Ne0ihCCJW6h_DELgy1ioGoqOkGeUrHV4V6E7v8rpbkT26auiEV-Hd7juHsdpR3tSF9XZjjBS1EpB1hNPuuSEdW77Fzslb1NL2r5tjaoUJp0czpiV5ZBaF20Qi9f4C7DFgv0fz1svEQ2H-KwbU0YblawMkoXKToIHaYMN-1M957X_ROkLuNKL0l7Eqeazo7EwQjTnqVXKKihVHWOYMNRSsPSSM4tZjeqCYwKwbKU4-zaznghHFMUzk70XRBtMtVCKfibWrTmNnbPGFv_i_dlCmWRZdkAkMZ9N-6nbpKRMOPvzSYqTQSYGWfmAMNWbuuCZTbvRjfpBZ0p7Esdn/driveid-115155-terbit21-com-lord-legend-of-ravaging-dynasties-2-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/zeD4PabP6099gpE0STWJrJrCBCs-150x225.jpg" group-title="OTTO MOVIES",Honest Thief (2020)
+https://2475163198.tapecontent.net/radosgw/xoeRzVv4XVFkYoG/7EsUEukBESyF4lgIR7sWsu1ZtHHccbKdDimei_6_hOBfZcdh8RYBWh4he_GbsT5wC7BGG6KEanRcq3KWeQwk18fWPIszI49cO0orK97USYov7MV7qSsCRYvRx7IfHZ3txVW7iFlVjFMT3XzzmiFN9DJ_p4C_CHjVW8mXW2Bar3twG84zwNd0FMcO3Rk6_sezC1nKigOMjAlES1iQznt1-QhQZBpGMUB9suDETzwvV9dEqvMZxrYkGkkFVlTeMGW5H1xit-m845LjzqVGbSkcbv-IOMnIB53tBW0nX1RjDi9iL0dS-LqdyPVbpi0/driveid-115054-terbit21-com-honest-thief-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/fHzshqfPb58ko6RoLh8CAcHi2K4-150x225.jpg" group-title="OTTO MOVIES",True and False Monkey King (2020)
+https://861519979.tapecontent.net/radosgw/3D9q4m0rYdIdo0L/Xi_gkc7dpc9L6Xs--ppebmOC_39cYo--KkGXdghYYRZR6PTkSjlby-jw_5fD6PkNCAlLKlsFQmzi01M_a3wW40OJuicVSzSNFsI2OonXn-oWa8acbihnqahMQaroUmFvk3hgDt3RvKyntyeUNzv9HRS8-OiYrDgEuRni1-nBmKI-wD9Smz6clcZL3cO8-N2RvlFEOAcS3OndKQRxqgZBfmCMXgR8J6aKqbQmE1SlH1H7l6qK2Hl7T04VLnoKl2REjUAkfywxRepxSQOAacq5hZxxKUtw59HU5O4rBUtj2mbUEBieB7y-lSXbogg/driveid-115449-terbit21-com-true-and-false-monkey-king-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/eDq4dGgNHxPbT3Y5S6mfymsQ0rQ-150x225.jpg" group-title="OTTO MOVIES",Legend of Deification (2020)
+https://858142479.tapecontent.net/radosgw/VPZbLYYGyeSKBX9/7in1d04fY_WoauqUTMD8U4-v703d2D5vs4NvAGwTh1xucygJ6jG-8QYR-2qpSGBtm0OlWFv_JS_WGXJQssOjRCC_Eu-lPaSlLJQuE2znrbilnv8noVvc6vIbnG9pwu-C-aCNLHI2IJP4zpQYYk9LVn0Pu_KZyIv5bWXALeMJH4zHt3bb4VTgprdk1X1W86ZlBNAjzzjEDL6n2LXaflgvZX4gRZY_fA55RasBsXpo1X1rmhRdesuHAfn9i7KFzGULYZU5Q8JhMdZXyM70c1lLh_WneVcJvetqpZiAk2o4LpZcezm_BqN2_ti1rHk/driveid-115898-terbit21-com-legend-of-deification-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/lpgyDCEOxWJQxYIgD7n96GOWMn3-150x225.jpg" group-title="OTTO MOVIES",Shaolin Conquering Demons (2020)
+https://861605437.tapecontent.net/radosgw/4zw84ym1mQUKKXp/TT8uXXgrKbh54eSFzUQ7kvYPkgu6c68MLOq6vhFW0ewFwTYu-xKvaOFocClJvFtLp2trAXMC_b_pn7_FaYKxMOl_Hkf0kf86rVsrc5tRvekcLpkWssLKipRW2LELkkQcS0oUDbPjCcZFfSZVXBRpnWueUPTB5_sawXJ43U3aKkO0HTGHTLAjcq_fM5R2P5hVSpv9kS-fmVfXTBAEpgMftibymbXOlW7LNbei4GW62CV54l66gNW_ZFK7pdJyxesQ_hpN3qYYbGP4THi9zTNSVAzjFqiKqGUZ98IaHwcH8iEcPwEX8i2zBN8LaB8/driveid-114697-terbit21-com-shaolin-conquering-demons-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/z7H3FSpglclgQHRMc5WImlYpSph-150x225.jpg" group-title="OTTO MOVIES",History of the Northeast: My name is Liu Haizhu (2020)
+https://861481692.tapecontent.net/radosgw/Qd6Qz6zlWMC0jYm/S4FmsFlX4jEBSbplNExMa-cz_Db-blZtp5HOOEG0g3uAjd01ZBfw7BLAbtfL1OVa1vgweZb9Fr0JYi_3qaGRTRo8obPrIiyDJ3zrte9EPlrZbWLSoGRXDXFacMa0Ytfj1qC0-uiqS1fVqAIq2PuqbtN0ihYGyb53bl4T_lGuRoMy_lVlq529aATvW96S2J6DTvvCw2ion-1sz5nU66LoKrSncG66Em6kFAk60OqU5LL2CXiN5bVDAzvGxtZ5aUIumvLb1FgTHU-0Ygwozx27rnnx_tFTprGv7-QJVpt2E1rHQURgJuK7hsPCaR1THNA8DKeqUrgzgr0tGFsP/driveid-113688-terbit21-com-history-of-the-northeast-my-name-is-liu-haizhu-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/08/GAeK18hkfR6rzlo1vITvQhoEiW-150x225.jpg" group-title="OTTO MOVIES",Iron Mask (2019)
+https://2475163195.tapecontent.net/radosgw/LX0z7der2vf4Lm/qhwq6xJKLgN2SXWeJ9_su163zlVmHoR78HwugsFt67rYYf8VGm9ITMkxQo2GOL3WdSjMqik7qSzw2Z5O4g6kJxoSByhDHG2NvQLSrAq9BG4hazJ6Vj9WpTeWrhUP1xEM2OeAGryZ2nuaW2J4r9f4FesIrapwg67xS4S_jRYqyJDqoTXvS1wuQBTjsQsbLjRSXIau2fEntsGYCo4CMFV1DwZ9WZClFs7SWJwc96opGQY0M5LEyn60xFlVj0Z1Go8paWNRScqPro9cCNyUjh3q6HgjboIT4yHnqoX9eojUYIbFkqYltdosptkjX6A/driveid-113974-terbit21-com-iron-mask-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/y86UfiW5zccU20IqV2sZdOHTm1d-150x225.jpg" group-title="OTTO MOVIES",Monkey King (2020)
+https://867337037.tapecontent.net/radosgw/KkXMowpvAwCAlX/Awotcm4tkGEP_yBY6o1PEUmJ6XrKjQv0jsljlt6Ctq4ZA444Cwb9ZES1ciFE2TA4Ow0J1ztGejnNHfZt9UJoo6wEVMxfteKuFECReCNJ_edqdHPeprbM7U_qaMZF2j-ceilQJekq_rTOApm17Mx0K275cBZPJC7kSBhJcbXDHgNMkpBa0QPRFzEvNj07MhXqxa8nIRFdmb4kPabxc3chf937tV6dox1L922mAyWo-ggvvaf-5znuTkRO5kwEzVV8VXBH6MiLDAJX_s0ka4BTp0FJbjvGVqKClvZOT5TVGMICr0cGq1ISQwyRQC0/driveid-113892-terbit21-com-monkey-king-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/08/GAeK18hkfR6rzlo1vITvQhoEiW-150x225.jpg" group-title="OTTO MOVIES",Iron Mask (2019)
+https://2475163195.tapecontent.net/radosgw/LX0z7der2vf4Lm/brwyHzTb-CxaCcQM_RBmcyV4b7pa0Pt0TwA1cnwCAmY0afIqKEbLy8QvHhorcRpkTVKkvc0PggXBA9EpRMMnL_fUPjSD2yW39kEZQd0JDExgY_kaAZxr9-D8Z12nfIN1-nCrbvJqHO9xkaAneoOTL_eQhrCookUlHMDgK7-DUoNeYc7_wUSmS_g9f-yo7AuR42As7-7ubJgJ1lecLZatPbehq-YSCOTV4jqoPHG69fxFJwxz57J24agteAcjzk_coc4qvOiJQocjjv1-U5gA9nSnvQxCx8RMzbKdiSdCrbdpK8kGjan4eaJ7p8k/driveid-113974-terbit21-com-iron-mask-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/cFkrIxIirj8ahBNzflZmgJVgRja-150x225.jpg" group-title="OTTO MOVIES",Locked Dragon Well (2020)
+https://908357271.tapecontent.net/radosgw/2zYrLZa28ofZXPm/lwBbCuT6cLEJLXWIczdxwY_c1qWFsaCUp3PdjtOcxLVAVp-OUwmSUBV7lWm4PosUU10KlDz_AkdY4NTd-6rM3JjpT2N-L__ITqjwXU4lQN3Vzp0xvZbXULvRU0rjisiuUuerbJM6q-IX-nPUND2jTbFC7uSGJitC69Q2rfsSGTQfY-O4afXZnbig8yUnxDXsuVfY3ZTjxwcb4veqQP17W6eVNNY2VXQNCOSmm193K21XPtolea_WWdA2gSJf9gAjxcEVIifeMeI0B4OTMpjG-GJU9XDSFRGtJJtTnOILw8kY_a_tk_hd3PxRhX0/driveid-113446-terbit21-com-locked-dragon-well-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/2tuJiQQUJNZgEmBgBfNVaYvAnPT-150x225.jpg" group-title="OTTO MOVIES",The Eight Hundred (2020)
+https://867337140.tapecontent.net/radosgw/r4Zabaq7dVceAX/1yYWlTyMbsoi6h3roAHpcw8prsQ1qhtZWSZU7gurZOsJf0LXPLA1vJJw0OtXOMnKJTTciIiER5XFJ1W-eoZxJqSeoCtmbmpPRQzhsSU5w0yNenTIR8L-LxDhwR0h0h43RMwF7srBjwtSwuDQyCkaAGl80dq5rK1y8qHtrzhANjRe6pgsGNBW--u0BLt8cOuN3XKzobTJZOZ7iQ7i8ejgAOPlUDuP1dKzS25C_B8p6NorP4N0Bo4ZMZNLPSVlnXzDKekuxmuyzRaFuGQm_PVuBhqroSsZlPILwh3cRatdnEyZhbwPwUyWZ4wiJA8/driveid-113440-terbit21-com-the-eight-hundred-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/ee6dpJ05nxqb5y9TCzwSJ7rvcLo-150x225.jpg" group-title="OTTO MOVIES",Two Tigers (2019)
+https://908373049.tapecontent.net/radosgw/RQeqDlYoAgSdgq2/szdh3p0KFeWpbMiDuJlndunWzT6mzIii8u-ngmT7aeGXSl0A0phQ-c2N-HrimV8LiQ3i-eMMGF69TTvHrFBFXn5GlURdmBMqJvv1285y1vaMQzvbEVrJuQB8SJtolAM6p8JBDY51-_t3h7meIuqwf26SIWEmf3TauK2BoCs914S0tcC1dWN0P1KPl1DczrB1OptNu2b2u--kek2yk27PNngNKqaKLv9fw6_zO77m1paK8G66O259OVgViCQpavkLDtTk4dVYxpIlj0vMWiDcla1O6Hgup9Axn-erx0yKX881w8bWtv4WXLLyYDM/driveid-113687-terbit21-com-two-tigers-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/09/7nlUgEYqsjmpts1XC8bLxT6cZ5-150x225.jpg" group-title="OTTO MOVIES",Legend of the Demon Seal (2019)
+https://861530416.tapecontent.net/radosgw/bQ4o4bxalWtP0Vy/T_0r_LXRSQ02qt7niPp3D-ab-WaItiWki_Y6HAieLDVu8uZgww-Bx5jTcGoHS6Jtk_VpXHuiUPzSoNx1RoM5ACCdyg4j_M291KFrVlYaQqcbXqNSQoS1qlQjXGUEtGPafbhEePGTTVUH4Y18exF6rYvz6Fj0oPnyvut9dLGngw22yTBnVEVoo5Lildo-0C0QqTrcl72pNzyoX9_huE4ZgR22aR2Is3CWVImoJVEsSQgd5_pVKUsNaC2RpReXi-myxD1A3Cxhi2We3XCOEK8Lw_EVJDKi85xSZ7wFBd5wMPIoSgEa9QdzF_84-FM/driveid-112824-terbit21-com-legend-of-the-demon-seal-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/05/nxExp9u7BgNZ3IEMhfNeqtpA4n2-150x225.jpg" group-title="OTTO MOVIES",Return of the King Huang Feihong (2017)
+https://861472308.tapecontent.net/radosgw/ZbAJ3mYb4JCqbAX/2GrcA0iBfxyosU96bkoI7XX6VFXCaYoAStXRbKNvC9MFgKtMzHYDATo736c0AcRLo4npFjjD83cViOX4mBP_poSv2dwBNUjfJQV6qc3CsuultrXwVd4xjiZfADq3KoMXcheZw5UNpmUn2k8JIIdIELhTvieBSaEoIpT8I4CKYg9EJ5cc5jzRn8CUe5jbuLp_UGrWNxs6v4lHgwmTzmYoIp92-h0Va0-VBcikOO8kEVAKhJF4CXIeiCvz8kKq2aY7SROTuPZrr2hOxURxnb7tY3F4MN7TsYT6D6tJItcn_5x7LwbuN9FJMUKvHJw/driveid-112550-terbit21-com-return-of-the-king-huang-feihong-2017.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/g0c40ySJ1zW8dVwuCETgJcl3q7c-150x225.jpg" group-title="OTTO MOVIES",Kamen Rider Zi-O NEXT TIME: Geiz, Majesty (2020)
+https://861472515.tapecontent.net/radosgw/0V8ALjlpM6FbXdY/ss8tD_MUYrItt17_0HO4jg6c4mfcco9ETZti09yuMiN3VCX1SYaYiT-dizcSINcEqAevJr2etm7s5fXQGinEkaaTL5l1qK0W8cVpmlWLtAPs1n9Ped3wbS07tC19TkdYt0g4--H4-wZ1Pgzip43YjOAM2z0gFf32qnftph6j6FMApjtzk3vJSQqy2w6eMrPiHgJm0O92ehFnsHIBGMZzH0eC9tUMAO50F8jwVxUBcOlGPgWQjG8kO-4BnTld5H3JjfWFTpyUJ9uWc66NzJlNldW6zVKkq0T35sjfv4c8cOhP7IOYUInG9ON_fetmrmQfbMaDUa8KV4oBc26q/driveid-115966-terbit21-com-kamen-rider-zi-o-next-time-geiz-majesty-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/rR2LOUI0gj0Eg9HwPbRpw7UsMXx-150x225.jpg" group-title="OTTO MOVIES",Embattled (2020)
+https://858142519.tapecontent.net/radosgw/0RXQ2ole9JIb7wA/_PpH_qHM5hYoYFXA6-hWlXi-8f6Y03JXQpPkLuUPb51bMg1JfhGafxNbOh0WjGCuIob2KxJFtIhl8Uz9yGxOxjkxRnqB5cnB9WiFU0NmjX0NSuVpyIWacuF9TJvi4u7Ylp_ItW76IA2XhVsC84FFvvtIfZ8hpJVGnXdLdIMd0UokEn8OPMRQyl6f2QPEz1_kVc9hRhWzuIp17ctrToEAWIs4PKLtRblqHELYkdQemf1IJ1tWFASfW3n89OP6sEpHVlb00nJU1LFPvJv7jASBzgJSsFdMkl_2hZm9RmKTKV8h3HpY5CHFxNdffxw/driveid-115854-terbit21-com-embattled-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/mOapgbEHMtjPFv3D9EfwQmO394G-150x225.jpg" group-title="OTTO MOVIES",Beneath a Sea of Lights (2020)
+https://858142521.tapecontent.net/radosgw/O7Kd1OOAjdCZOBm/3t1Al4giDOKokA0Q9D4ugng7nk6_jlKbsEMntp3NvvveM678_5TAyR7AdVYwjSuUGb7Zbxb9nEOeeHaUHLP--aKSQEsRimXoNzNJrlHl6J9raqrHweNziijJLe8e35AjW1s-H-8Eoy7b9fxvJ8NsXTZiYWkwIccIiKbR5NrQofecSN9-1cUsNtlHuxMr1j-0SorcaD9nHNN88ODl6kXejvymZPwfjmtbJJybCoIFQL66ATtykLdQY81ms_i6qS5or79ykQ470gMYnxw5bGDbom3Ibtd9ZyEW_c-m_RLMe8E1ulr4OUQXha086g8/driveid-115871-terbit21-com-beneath-a-sea-of-lights-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/gBWNJzNyE2chbDVcUzXqmbl8t13-150x225.jpg" group-title="OTTO MOVIES",Antarctica (2020)
+https://908374512.tapecontent.net/radosgw/2Pk11WVjbmCZyV7/B32iPG02-oRCUhkjvOBuX3adDyShBg8BZdJ8Uc2UDE4ZeER4aL6HFE6z2mwbBgWAfsParK1UOmz2rgpSLMOwi3Ye3PYzb4dGCoOdFaIEm9Ei9J5T2NeOyyehoATNiTZv4m_5qaQPMDzHAaPVRzbWwUIFX0T3m5O2EH1ieax3mIU0RbeJ7XhL7OhVumBUk-yoifZX5PKRCXkaX2_D8aGOB732aQPPFukVUBiuj1rljJz8f2SXzl4lPPzyrCEoS81ZqpvqzTk8w0Mq0kR_9C9FIkJDBmNmWRu2L5a0GBMJCwp9sdEW7DvdayKH_8o/driveid-115904-terbit21-com-antarctica-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/c4H5aH4PxVomNxa5UIHa32bzrCO-150x225.jpg" group-title="OTTO MOVIES",Minor Premise (2020)
+https://861520839.tapecontent.net/radosgw/GwQxm7yV9yc1DD8/D9zJ-r6bRwPazb5YUJNFZ-OD20LN1IYGSi6cc1C6OfzS0RKRmtqHCqr97LNGFpsMltPV9BkjLuQqOnFfn_5FL7OgXHf3kXQ2RTyRdrQsWQ3HBV65TqvzShMIF3sXwJLxM7qulYVvHdPwj7RCMT3tyBNIwLI0MBSgZSbZpCWtYZBTOEWFkOhq1i5WvqAfPwZ0Ec_zD0Yy7a3qMyq6RrIORFlpRpRR1UStwwzgrrs7q36be83p5HUM8r1dlbOws_x-55XhHvfEJgdJoh5D_bknG04b04tLKVR3wi_-7Z0tT_W3rG7PiDk0_m5oKro/driveid-115905-terbit21-com-minor-premise-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/lJ1x8z6ADETTldgR29R1tE0e0lq-150x225.jpg" group-title="OTTO MOVIES",Exit (2020)
+https://908472273.tapecontent.net/radosgw/b7GXwMJ3KkuPjY0/nB0L3or40JfIle1ZCSXGreoqZFUX_FNoXCB9eSU4yHzNqj82KKrWDtH_vbfJNtkc70HTUxRrYEr437VEbCHZSgIlj_J_23TUiGtlfo1LC2eJ5vsMDAGyehdlDH8CQamLhEqdJZcQNy0Uf5V0hIx14HS-l9W0S4A37aNs5Nl_i1KKoygsW58h4ka-v06q8RX1rxtZ5OC5LI-b8_4KHmR5qwFYi9N3a3jNW3GgGjCOiCpX8RgZj0Mk2htQa67HTsXInxjMb2m8HLY-navtYt5OTGWslMgtm5RH5q6CRA/driveid-115907-terbit21-com-exit-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/oyDaF4za9C9GxfYSyZUmj2aZGJT-150x225.jpg" group-title="OTTO MOVIES",Goblin Slayer: Goblin’s Crown (2020)
+https://860700782.tapecontent.net/radosgw/lGGR2eK3rkt7qZ4/c4IDjtihZHDU9Yn62Wk0a6m9Uy9rrkCMsiAuPUr8HJDWC3F8bP977YpKUJNHheqme_RYZ7bhx3jk2ss7rrKXWBs8exACbYFn0LoS64GP0BvehhorX0C5hd4P0aAxNuMyhVKxBGOeEA0pMrax39G8kt34m8Y3uX9bPX47b_JJOSn3BZ93u3waCx-lJV1EMncrgUKvnTbKhNoMeMMR_vE8YCdMQ9aez2nbccm9z3NxhXR-scdzGwj89EEE3hoPjrlwTx6ByvVLmRuVizu04EMUFGoXtbCzwShwAxqtZGktvdnyTi9A0t5b08GfkqA/driveid-115945-terbit21-com-goblin-slayer-goblins-crown-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/fsPZdpocYYbvDS2YEE1Xohqo1ni-150x225.jpg" group-title="OTTO MOVIES",Made in Abyss: Dawn of the Deep Soul (2020)
+https://908472047.tapecontent.net/radosgw/qDLOgr9eWbuLa9/aFMSt7JK8DHRzcWwdrux3oBLI47e4SypB4EppStOPaPlHzVfC1gxg9u8FLxeFSmNt92qx0ZYSFdb4JCiRK-w6VVJAz3KPoP-GzZOPtx4I2B5jS8nsJkCyVV3cPRmQ3DTGxQ30vqgwdTX8r34cGKh26Fc0z5NIut3G0F00lmKcYOIkY8WqF2vqEcMZ3s3sfi_UW-YGWV-tt3FNPhCvjTIEa_Vz-I0vVowmxyCPTrQmMFMvQSAL1KzOK3IYEdBTeXZGjZbSUV0Cx5pc74dJ_o35milUk3kTwjfV_DPIdoxOD0MwYzWSn_Jh1gL66l9BcMBL14ib593q1Vr_9bh/driveid-115944-terbit21-com-made-in-abyss-dawn-of-the-deep-soul-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/xbWcE8YQ09NyDkstTrGML8ncc7M-150x225.jpg" group-title="OTTO MOVIES",Date A Bullet: Dead or Bullet (2020)
+https://908471852.tapecontent.net/radosgw/A62mWyY7ZosXRe7/j6Kl31uqSEnok9XId-DRYQQ6zEYHqKRgHAK7c7TMCFx9UET-7jMy2IVr9L4l2yzBi-Rlh6yNqJEZR1W97ZhmG4dBuHYRH8LylOxJJBVQU0ImFct6-UODKcgklWvIXRA-NmASE2YeIeZdyEs7FH_66WmFy9MkldHFZjtXpB1IBqFU9FazMiw09zkRD4XsidjH3Hx-u3ucuJ8z0YAEPqX0W4s7fezBBzHAIDZs1JlymyfxCCEkspdkNnRd_z-Op8YOyyPUFxRJCZtjnKWzNHg45ch2U6f1c9b6nN5zfnOwEgm2QZ3rG6gKCTj_ryY/driveid-115942-terbit21-com-date-a-bullet-dead-or-bullet-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/5vr2GOHcED3vU5HeTzRyLeJt71c-150x225.jpg" group-title="OTTO MOVIES",BEM Movie: Become Human (2020)
+https://867323788.tapecontent.net/radosgw/mkaK1m8lp2sb8b6/AL3jZ2fo5jk3z2LbDDNRF9WKnjBWAsigszLgTrA5LTKMAuC5t8-om37bG_-NNOylpzm3IjGFevbE4dhDgFOw9bMcW_GV5CS9-k-0I1b-l9sDqNnLcEGkihXY0l1g8WM81aZGIWO_QGWqzT6lW7Fbm--HbHmwAirTvgUzrL9HeSm5wi2oGqgkocAtfuj_RPI17b9P2wVwjIuWC_l1uNXej1ZxjuqtT7smB0tJ5_sEXXnltd5K85CuyXcZIvABKONoIIfKQ_h8NTWUuIZxV6qMHprnaT2cUWgfgAJ2xKLPCw9AjvlbrO9INwa-B5U/driveid-115940-terbit21-com-bem-movie-become-human-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/10mGHIWt8TkMvnmSlqCChzigwFl-150x225.jpg" group-title="OTTO MOVIES",Attack on Titan: Chronicle (2020)
+https://858143364.tapecontent.net/radosgw/7qB08jVXZBSArvp/25XZEmEHhTCQ0luuR8MLx0QZt0vo8Oej8UtP7ZdeN1L7Ptpk-fz_i3hXUygYNWfma8oj6RYmi7CJXs-dScOVQ6kqdj6KQMGPOOIde7wPVeZirSvfuSTqUgnFnVzQ2wHhTt7IWjBuG2a4IrPT9wgIrJWRncOaTEnFN3PF0UIeJ82W5pqlur34qEIfc3WtA3gG9CMesDabsTXbTPeX_2ESEa8acO300Dl4hDV3IZybNUQMb-5Oaa4e85OC5_fcZqCh1aI8PporL1AI0q2PCGdqRMPZ8vjuBKYe3WXSz6dYMH8-hKAiNWDWrmZjkGo/driveid-115938-terbit21-com-attack-on-titan-chronicle-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/OZCmgXARilxgvmBEFW7IqPicpG-150x225.jpg" group-title="OTTO MOVIES",Max Cloud (2020)
+https://861619395.tapecontent.net/radosgw/plzyWK9PRxSxJB/Zc8s0tRTtse-P6LhwmpGthF8mPdnBNHy3Q0XNrWnraUY9B_jFH2LWcfk8jCj0-Ci2RwzSHtG1qXH5i0kFUiIYqnVPrQUzzXrQrUo2HzoaHLDL19omN9oY9seZmX14Oa4KCEji8A8J9KfV_QF-2Ujsmzj5MxH3Ai6miQhiSwnrsAsHgwdXvacXIBGJBlr8FfSv1J9sidPnq3rvt3k1bEf0zTROg9zH8h2OPir9IBMp_yyUaZfcwSTwPbsoGl-muhcs9h9ifIZ6IpevlFaHzsDsz6mBpjGRkjn4Ku6ug/driveid-115928-terbit21-com-max-cloud-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/vSCjeSAkdrAyi3XDIrNWpMsH5oP-150x225.jpg" group-title="OTTO MOVIES",Siberia (2020)
+https://908472017.tapecontent.net/radosgw/Jp1r9L1WVBU9ve/j49pOXk7TkEzwTIYB9VIzAcW4ghilZH_qs1G2s1Md-0PfIIPajkEHLgaTiQGAdjhLD33C_2vUhUCpfNEYq5ZQip-W6cWSWgfzs_9zf3j5Ef1VGsdGFatb5CbkWyJAsi05wGFnUucl7NmoyiEohkBjERya7UDSMGosYjadsDlwNio8NdAJDL1B5FbBzPoelhJ97pEFmgenUP_ym0FGoQmkcusMtLo0ty3p7XZKlF5TH84k5VtGP9kuEijtJh2HsZtAel1n6aEFNuxzKVLePfVW1wSdRnmYKKK_BO6SA/driveid-115934-terbit21-com-siberia-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/mbwcuXBp554Ef6s9aFE1x5Wq1pV-150x225.jpg" group-title="OTTO MOVIES",Suraj Pe Mangal Bhari (2020)
+https://858139431.tapecontent.net/radosgw/LQemzKyvVLiR2qY/-fzPMNEwNUnFi_H5kRRcaOSWSnv3wUcxp7qH-0OkilLcJ82WtX_o1tqzFz1nwNnF0U9cQb3AaXFrKQht_cjIRtVgSqKHsaZ2ljP5U5SjZwFgXYIX_k487G3DJF9-xkQ5aMUwtSLNooc5YT-WdWR-KrO6TWJuVXXFo8SfSZH7-67vsJyi5jcwvqjM0IDE9_vxd5O4WAo1TzV1r1cg5vM9WlRNZIXpOB5OJlTiAn4U-W7yf4QXNOV3leku4K0on--gOeUQEP0I49gd-IBmgUi7k3lBAqISDBSKK3a6FG1eVM0UAU-hVdPJ_9ATgT0/driveid-115777-terbit21-com-suraj-pe-mangal-bhari-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/aMC6FqninqV8M7dJKIeM4Qwm6Gy-150x225.jpg" group-title="OTTO MOVIES",Sab Kushal Mangal (2020)
+https://868418908.tapecontent.net/radosgw/el9ZkJd3gRHYbMy/whBC5Pp3IZaYdfRznmZRGpbn1QMKLI2xtfQoE3DS7lqZU6_zSaRjMVkqIlSU4DdiBVIJ4CUuZBVrHKx-sL-utpcx_6teOtBVScJ5BmJY4-Q6R0qU_WGpSB7gQXO1COP_P9vXDC-_iJw_F_BGhCgJaQjqGkFiTuKhHxvqC7naPZQuhFAjO6LmBUI-gM3aQu8_hU30dZBM1AqUr3uaVRhj3FEyqj3MksowOQPPxXb58nutyIrCp61PPZcdj_PU9vzJt5wz1slcFGp-rAi82DVWdGbWF4AkSSgSuMorQC228WiCl-su_0UR_2UNCow/driveid-115649-terbit21-com-sab-kushal-mangal-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/AjlVJ8y62Sx34eXsugV4htv8wpQ-150x225.jpg" group-title="OTTO MOVIES",The Night They Knocked (2020)
+https://867320277.tapecontent.net/radosgw/xMxYxKJgl7F9Mr/l0hR8jbJwTbODq-ln1KIiHa2-jG376SqyofGiXYg08h3hLC8422qROtdLbIWa8Z3WebTXefHWUskt_Pcb_C0grWA5lEQKIQIoZWuZesY-3PpIKWrBn1GqTgZ0Qz09ZXcS-yhH5DYD7a5nmlqUBnIjmlG_ZuBZT67PpvyFhkG50klWX2dwAgNwKRUVlZ_yjARQQaINZgvSfMJpOVCi5YYc-L-I17qmmHD0M-KHV70hwU5t__32NpZUEQhcHS7clPKI4qLdUzqGcGZl_7T9RlIZtgdZGZV7dyWWkSNfSHcBtEZhaNuK5zwaMYBvvE/driveid-115691-terbit21-com-the-night-they-knocked-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/ta9AEpL05L2pUzSoTDRh8S1mncs-150x225.jpg" group-title="OTTO MOVIES",Knuckledust (2020)
+https://908374512.tapecontent.net/radosgw/88APMeoOZQF20R/grmj3_4OgiHJttpqBpEpJuLhTbfep4HemkcxSHGAV53PI_6gO1sclIp3QplFwqtdYRNELH6lq0NauBbHe3l5-oBjDUo4TtMms2tCUR5-BO4KO33Dg3PhQHH-wDoCWCriUfORAq6gzmK_j9GfmaLFiB-NNshH3INJdco-zB83mBfC8k6ny0Wn5r13tBB5k04Ic3jTIKSe3FvxXZFTsRv-NGnqeokR6Y12hutVbXjCnEqcmhEMnFhhmp7CuPwTnoJF0Oz-18APn3QzXhliF_HvmNiXbXkVg40q1xl-Y5yVJ_4X-IIvYhsglkoe040/driveid-115781-terbit21-com-knuckledust-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/sYZQfhqEkflGCQ2FzrHeOk80xqM-150x225.jpg" group-title="OTTO MOVIES",Serena Waits (2020)
+https://861520839.tapecontent.net/radosgw/BjJy4QG0GdSykWa/YKyf66_0k_Pqhs4FfjGh081RBvEuFgaUbjgui_THtBz6MKshB3xVWEnhKT-SJdn7109Myep6vl9Z3iUuZk4tfW523NUxNM1T-IwQMlER8gUIohCdbrxZ4V9iDsYRcZPyibigrXs7GD5QC01RxS2gu5WnAAhxWSDeEVP3VCvOkR_nC_SEGWeOIZ-Jf8RY_ug32Zuq3kVk0uPgvLTXtNHUQj_7V8CebJ_LybBVUM1WgY-APOq53hlP212kXklvau5OZm9GWBdLucZfPfHUOiHongzotaj9SRlYosPxdk_5V4-VmmsKY3JobErJHJo/driveid-115647-terbit21-com-serena-waits-2017.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/5FGBBT761M6bTu1rm5lb5ZmCybt-150x225.jpg" group-title="OTTO MOVIES",Dagaalty (2020)
+https://908357237.tapecontent.net/radosgw/MPwlayGK40CmjAl/qc7KXBJ3tyWrehrm_FCp0wEdwa1TcgxR6_K0Ko6afhGzrbpRSj7RSJLFfRlBOWnTcESX2LjLHlL7fsKv_F0W78tLz-ERB6LFBf-uX5Eastzjgijq-F3qZmWClunPJ6rbZeDogMpvex6rTjBUb_CXC58ua-plm6fYoHCEkKeCQ-yKjVbgRneabPvBpZmQq6kv3JkMwWd76Lt6BkYbHnxUoK0dD4fILZGpt5u237M8YvLjIOt778Eg5XGP0o5PXAonXi6BtVZ6o5Ah7KBSMtIvHpYlyDuBxv-pkdHzaTlC9GP8vkVz098fVjuRDzk/driveid-115889-terbit21-com-dagaalty-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/xNSqlwcXzff6B5IoaIcxgCLE92h-150x225.jpg" group-title="OTTO MOVIES",Asura Guru (2020)
+https://858143365.tapecontent.net/radosgw/3pZQ66QOD7Fd7op/5ZO_EjsnagkOsGjx-Pz-qXTVrtA98PY_ZRkDL_tBE2uhOrCRytkqwmEW1iAJD0NI0gB-8vEpgYzcJ8HoxvZjpzCowKY6w7QXeS8GtsTz1RVF6S2zbo5madUiO91dEtSbQzClFbEx2aFiRhJPXRb6_jCrAJH5P67V6l13vLRhQEQBss-oII87IgRH8fqlPJeUZn9XRHtFyQjevrR_Vu8ciK473z9IM5fREPiJ07_LTlsS_SN3oOdQkhk-RO5d-fsY7eGbeG85jB99wVJ7f66z6PMq7vHoEQzveZPCzpaMR7jfF3sPZonmqhtcazU/driveid-115883-terbit21-com-asuraguru-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/szTRCaDGnGNfVXk7mNh03VEfVMI-150x225.jpg" group-title="OTTO MOVIES",Trail of Ashes (2020)
+https://908357513.tapecontent.net/radosgw/1Dge4oeXjKseKwz/pw-qmdCqNOdhIBt47vFXsWqTCgZRTtAv6_qiBfeTiQXA86PvZlZhKWS2Jo6EWMhy4XtHWyPs8w400h3WEOJZT03jJT_NZ1XVFvQwcxhQuewyhcNB-E2ad-Tl0TXP8ibzDu9UUXoXrI6oGIkTSUbqd9OPLE4pWRGCHoYb5Gv4eTbMUADQdLkLzMCO-TpfHaK5T-L0eIKC8d6689Et_UvriTGaIdvEdd8lJfeacHp28EPdWuEydTTNKxM5IirRDYYMW7DEyFhGBakgGo_YvbstX6h9aNr-a7h1kX5JBszZOFf5nUz2fMZ__yQlKCo/driveid-115529-terbit21-com-trail-of-ashes-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/2W4ZvACURDyhiNnSIaFPHfNbny3-150x225.jpg" group-title="OTTO MOVIES",Skylines (2020)
+https://860133936.tapecontent.net/radosgw/r80YkQXPL9ibBdo/I8EIDgdYX0oObAR1EWQeydUnR796MFlfO4VLYclsVp8Bg9c4I4oHoRB3Qw2gM1vkjAchbGPy2wD6DfrYK3oZKnHCN8PB-WL3a-5RsJOFS2oDUCYlsyC07S6940UeylkvA3LTJde5U8UXmN0F6lCI0ijW56QgQgdFveXFOJnKgkn6AX8UZh9vKn3KwfPP2IAFTAq-qIoLm-w32efNKogUk-vn6S3PgMJkK-4S2HPWE_uGc9C3TNGzcHeCpr8FqxRPQI0bYlZSzBYLDwG9SZ_dgrzXVLsdUH0wHGxgTX3BcowLwp3G7aAkLlyJ4RM/driveid-115627-terbit21-com-skylines-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/3lOYicrgvA6982iVUpD9860qf7X-150x225.jpg" group-title="OTTO MOVIES",Unbreakable Kimmy Schmidt: Kimmy vs the Reverend (2020)
+https://861520055.tapecontent.net/radosgw/lWoVw8PaPbS7864/aQf4hUQC2TEfrmqoyMrJXYRfqqXjzO-TNParTnlj85Kv6iFXb8R8WcVbFGqXEB8bqBwuFQvPN94DxBHQP11lCfDKd9c51LOzLe5CSyo-m7dWaFU8UrexFNqQ99b-8bYjeR3fCIxygz7kjPr-PmBXweXlikSVqPlavgZ9uWMoucMaMVDcHVQGCgjvxON_-rrBfeiV5xIqJBzOyUsKCu7ZJZPZn-EVBQP3XQMbPLxXw3AWKr7EH7F-EMRcftDhsERkTsn_53neZta0_V5-sWM_gr5U5XJSm5JYydJS3B9p3oSWT9TZE4o9kblFZ7MHodk4v_qYJGNY8p_cGDk1/driveid-115631-terbit21-com-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/10/r4Lm1XKP0VsTgHX4LG4syAwYA2I-150x225.jpg" group-title="OTTO MOVIES",Love and Monsters (2020)
+https://908471838.tapecontent.net/radosgw/AlMm0wLQRdSXOPG/GOJW_BpLuLRAbdIC8K0KqhAvlT8VC_eE-sBP5yPfFTub03sy1rKrZUWJAxBjs2ZD4-gquJsBx73w8uSXuCtg8iStLBK70OQ-emL3FYfcQ09YBFuz8dBuptj5mhCwnuM4Y0OeH_Fj6zUs4og4J31MvZjtBxOYvZvvlK3ax5HNRGIzAOaJioBkeM2dFmt1CKGoYbGZvLnjnWkjQkMVC3MZlBJ_VL1jLqHp-BBdHrP4OIe0n21Q3j10BTWxMdor1ugJ6uz4dlFzR6YO9_vSgV2aXzCW8AqyvZsM2VeckmqAbhuZ_nL53TeBlr1uuQw/driveid-115600-terbit21-com-love-and-monsters-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/j52lKBGoHGmUJNUMsDV5kHOkMfC-150x225.jpg" group-title="OTTO MOVIES",Hunter Hunter (2020)
+https://908374502.tapecontent.net/radosgw/3BeMWlZgkvCdJmV/4ZQlT9FNh6TCblmxX-XgZMs9ucjPQHjf9i_NBWDfYq_YbpJ8iwIRbP481NdFiJR6bNu54z_jbopv7y2dvl9CoA4zHuKkghCZl8Gbt1-4HdhWVajCIHjFMJjV1lyhOBgCLcc3XwDXkzh-hZUk7tflQWybbU8PkBVxM5Ai-p4ib40_E44BjG7bC-kllV48Wim9yrPcbZuBBXAbp4natqYx3SkNGY3G4qg4-qKc5twXg9FojFEu1l53WpIzptxNuSHh6nVvymkzB1m_hOMRnyADFY40UKoa7zrW7abI_DeGg1q2wetqiByYt6QY69c/driveid-115629-terbit21-com-hunter-hunter-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/13B6onhL6FzSN2KaNeQeMML05pS-150x225.jpg" group-title="OTTO MOVIES",Breach (2020)
+https://908357513.tapecontent.net/radosgw/pbexXOdpq2HrP3X/A8cG_j8eRkqk0Md7DnyV7TEmcOf7Jdm0iGG__1VFecgcRn57Dy39Zeid1n8-r2FUGiG4w6fsj-5a4jEy-o7SgCoRhZo2At9SrJgtBKoEQxx-vuySiiVpW2uq3syd7KetTAmKZrbs_t9vNRlr5O_L3acrXlWuiIPo_1GuEr48Jdf2DMl9erukbCZvLbpPHSwlcHPtEGcF_Pe5K-300CNQQMMC2WmFtWPEumIQPRjgc5bOaTK-AvrU7uMIA5GRgw-jGvFZpaBK-1huI5Kqsmtys5rkQ6CC3rEc4v5VPA/driveid-115630-terbit21-com-breach-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/hfzQqwxWXkZe1PSKA8zt4ZmZLbQ-150x225.jpg" group-title="OTTO MOVIES",The Dirty Dozen (2020)
+https://2475155346.tapecontent.net/radosgw/1PBJz1aRDPTeoRd/eIrEsQdPu8jp7wqsRP6FnBWMNWHbwLSuP8gMywpQSi0h1UE7v2HBy0_86Va_XRlZhmgrvsgVP5clc_3tdzlEmE4FDpQO8ivMFegxHw2W74TCrZeEt5Ft2nN8U8eos3hn115Y-Vb7OfV8562lRDCBxOYggG-v2CEIs9k6sd-t1qCBwFzI3xRUBM6qib8ByHO2maj1m6wPUcRbpg6pL4iyM0vf7YBLr98SM7BcsaK_Gs3IRzKPiLLMm1cdD_peUS6X9b8oUMRn0dxAtEABYied7AHBWLEwRqI_vSN97BS6vRB9qX6sefUl1Y-gASI/driveid-115622-terbit21-com-the-dirty-dozen-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/mn78STmcTtCafuUztN446I4rh5G-150x225.jpg" group-title="OTTO MOVIES",The Reason (2020)
+https://2475154701.tapecontent.net/radosgw/xy1ygODDV8ukOLm/RH0GqpkRAL0LoYQ_vp14CR2dGWCKp2ivuaFqJ7etwAdxS94Lf9uC4BsFlbKLggCQvOP0FAtwGFhv7YjXIYDO0NS7ATeqy3Viky224Tem0bntY8xMbmvnlFtnfsbVRNfs_YDlq0k9TWcUX5Hx9uD2isL9TeIfRHptn9SAw2G3-A8ndPwze1NjpsQsclr3enhOePXu3qz3dqCSZZmRdKZPbF06-zjmD68THs0in6YtncAdnKejdEOzi93HKQVELV-yZfmeDc5xsi1bKofcg3UIKiCpwzh2N_He2jC8YXA0RJRad_P73-7KtCCcRYs/driveid-115509-terbit21-com-the-reason-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/fwfZuySmp8emMMpZMKw13iZQRGp-150x225.jpg" group-title="OTTO MOVIES",Breaking Surface (2020)
+https://2475154962.tapecontent.net/radosgw/JeAPPY3Agxfj13q/PP6rANIJEHPQYbDf1fzVxd-pSWRkqn3XcdAsmQPCmpKdg2nVrXBxFgZyJ8rTB-u0wUSYk-PdZ_fcDJJwq1HS1qVPyhAXfgoXvAubiYEh1hI46IYmPdVLBK4eCd-sWZLl6molKckXrGeXgul9ZodoG7lixg2cUtFvrSEy-GrxklB4qjB5a-VA9Hc6yKBuUsy8ZkH6aiN_XetA7fgiprjNCXKWTZTgNUJ1JuBbS668qAZ9dkeTUUUmWIwRCbBUce5xDURxBsK7v4aL8HXZl-oWLpMB6Z8tCsi-szNbAnPI2M7gpZ3AR3VzCb2kkpM/driveid-115494-terbit21-com-breaking-surface-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/1f3qspv64L5FXrRy0MF8X92ieuw-150x225.jpg" group-title="OTTO MOVIES",Monsters of Man (2020)
+https://2448361320.tapecontent.net/radosgw/V84qb8PkaJhKDy9/kQHzPr1IPJ-CnmK0mvxsbCrEaMkRt0FPPwngKV4thSAPzz2Lw-18DiObSiEiwO2xO060jkTNTdQf7lXRd4kmPAeX7ihP2GEVD_0RQNkH7km5MhInhf2lZD5FYIKCpNmbPmVeTUFNir2P39ZhnHK8nFqR-XOEjfCxgyqkRMmoB_LfDcy4PTid6mtJbNzvQ3xxsQVwSHccFkOG3rU__L1PS34fRLwwDC9tSDiIBzRYRB7U9GqU7RRoVcOkWpXuQpLu_F6AGRv_oEaTAjPA5cQZnRCfk93FBpeTCXAm96eZpue0hSlkeFJM2u_xEl0/driveid-115120-terbit21-com-monsters-of-man-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/eLT8Cu357VOwBVTitkmlDEg32Fs-150x225.jpg" group-title="OTTO MOVIES",Jiu Jitsu (2020)
+https://861520517.tapecontent.net/radosgw/My2PlM6yjWhmvzw/r12IH4w7UOqTgdLAWIwJSO-_YxZY1T0Nd9jEvllFlsJI8dq2Nt0TmhBoGB--Fe9GSY92-MQn5BnxcQ-VBc20MNAuSV8vEedma3JrAEgfRvmUre44s0Mua2kJASd3z26noZBJ1MXdKXlenS9wSWdCTAPdtMGl4XSXH_B2bMZoTunhp5tcZMuauypWKNasqHqQAPIyfr948alQcA8SHakcj-9OlCZqwDrNnTD_TJHxH7h4Uc0_xW5lXngwMTasAa_UleEvinlXK8ypQj8mcuuip5kPy9uTTEIbP_pWm9bJafkATIvxjEHTy-5caok/driveid-115152-terbit21-com-jiu-jitsu-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/em2NY3recLURRJ4d6QuXGNN5H2a-150x225.jpg" group-title="OTTO MOVIES",Battle of the Bulge: Winter War (2020)
+https://861133841.tapecontent.net/radosgw/rlzoG087gafM0e/BMxjjI6S-fL1eUEuoDlI7g-OoL57H01JInpM-DoeYhv1s1G0vLaa5WCbOdAqrMk8F0wUj_3EFj32X8sgD2EIbPlXI3QiyOj2J4Qzuyl0XnNmLjYpZSpuRgFKOYjSHCqu0rNpnUCtD4dZR44pGFRUEf-pV9qCGVUQ9f5100J9dTzA2_o8WUHKsCF7DZwKQXf1jbV16EJYYn_IADLt0DQXHcEWUuarN49H7YoJoTrco8F8tmlc4urYi47iAoDNUwxVaJgt5p7BHDASUkleenZb-DFufYWKds8NQ9t6xZnBg5pg8cr6ubClUrdnHsnxcR3s4eZ11ctU8nXIGM8n/driveid-115167-terbit21-com-battle-of-the-bulge-winter-war-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/08/chGTXsvn53XvEnvsJ9ZD9eiYKx9-150x225.jpg" group-title="OTTO MOVIES",Arthur & Merlin: Knights of Camelot (2020)
+https://860718379.tapecontent.net/radosgw/ApyJ3Zqmo4SXRmZ/Ftfr3p1WIuK7i_whQDPgscyT5h1WDGNqa4lvSLqoFyU4v4N5pnEAakKrhTUjcRUjXFd3diCjWOt_Q7YTQx9SaOtBHoO5zDUes7p7rt8mnMQSBs73V9_CyCmLD4HWJuPlw1tMY1oWlP_J9L9t4j0NU4hqLTD3Zxzn48Hfa7ryMK5HgijbIhVJ81zKbgmjQLgsdCIVCz9VKAZ_NB0qkH4TxDEJVZoakS4GKUCVRtnA_pBJHDQr7nvX_od-j9RN1I6ppIWi92xMod9mqWn083bvpASxxAlEOg_X0GHz8vX0z46bCA2gePbtybaoRa_2dR8_GAyOBxo-aJcGfaZU/driveid-115181-terbit21-com-arthur-and-merlin-knights-of-camelot-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/08/3xPMEWPTp3VkBBYGnp8rlPZP110-150x225.jpg" group-title="OTTO MOVIES",Andrés Iniesta: The Unexpected Hero (2020)
+https://861520051.tapecontent.net/radosgw/XA1RPyPXBJCDp3x/CsBqopKyJ4CK2-JJ0J0yuyiOsIrvuAST2ChbwoEAoDWYiK1DcLfgCG1ESCz_eEB7v9-DgW0MYEzBeMSEXr_pB5GFHu5P3ySrtiVywQF7HBKR6RFQ62JEUNu7gn-GUt6N2Js6CrvfziM8Fl5MbSiyLVk_D9UG5sdj0Ucr6NH65Aoc3-r-y6EE4y8JHEVVWjqHGCxJGTO7ZKG3fPwNSnMkg9hSZHsJ3UCgx_fEkfxY3-SUEyI0xZgpFgxWReq-0KAHmU0y16C38d0Hv_t9bGwHIXFqNwtwkFY9oibULqQYnwCx6SzNrYCkpKKb83vqrxxJoMCndzLxnDgsEJif/driveid-115212-terbit21-com-andres-iniesta-the-unexpected-hero-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/uW8Nrt52Vkktb9j793Qvffp1u1W-150x225.jpg" group-title="OTTO MOVIES",The Legend of Baron To’a (2020)
+https://867336969.tapecontent.net/radosgw/0DPXLGXOYmubz9w/5rYGGFNnWwcku9hz9hTm9iHFJA6uFQaYvAdtd4Ke8dTPE4hwVtav6P_1OBFzr1qtkHh4-xkMRUgB_ONqq2gHdfFkTORZf3XO4WUTH1TudqmtFFBT4rWAIbiNj_k1UcH5khXyuTbNcNxoGDDb6l0NOz7sZOXeSkizzZNOMTbijGQULy1Gopb8H08Bc2F3MCGmXi3lkDgy-OAOCodtEMjx-iuWFOwRU6s--aynOa__1BFcUwTrESqiH6fjstqBbNaCj04KHOGZjr1lUDNuYufdpUcRexr5IbjETCoyoXGbHXYRXd_Y-XvP9jSym0w/driveid-114985-terbit21-com-the-legend-of-baron-toa-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/09/k68nPLbIST6NP96JmTxmZijEvCA-150x225.jpg" group-title="OTTO MOVIES",Tenet (2020)
+https://860718357.tapecontent.net/radosgw/Gv12rly6x0H1k4O/jsXndwGC83GH1Oc8xvXgCVSP9lZvoE4ifwTWY5pWWimoT4gxDi4D14GH3rZ5RyRExUfATaU82BR5oDtc796pHan3DtCyjUZb2_pSCjMtXXI3ZtZ02Ynr3ArwkFWtPr-sS-1a6aj32xKfCVXFY6wKC4u5HRYMVxm9xGil9vCOT0ju_ecYFY8ACMSs3-DCGuPvAc6bOSCyZC_1ozViEFO-zxSo0Kq2vkUJn1iIMPxGb-397FOI7_z_lxPxoc9HK0F-KkwOajF4BwB3NbcO6fVn3aL6GcNYe28TPJUDYw/driveid-114968-terbit21-com-tenet-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/331.jpg" group-title="OTTO MOVIES",SAMSON (2018)
+https://www.googleapis.com/drive/v3/files/1f3ye8vZoAXrnnUGcE9DAfUqBkj-CnhHG?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/612.jpg" group-title="OTTO MOVIES",INSIDIOUS
+https://www.googleapis.com/drive/v3/files/1rnwJUIWqcUxy9DHmRMhbgy8hjXsnQbqc?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/611.jpg" group-title="OTTO MOVIES",pan (2015)
+https://www.googleapis.com/drive/v3/files/1PWXauS3Ses6JxfSawlu2ZF9GWkAMnorV?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/610.jpg" group-title="OTTO MOVIES",whiplash (2014)
+http://srv28.nf21.net/360p/15-2019-02-15-dd28f5aee119c3b284e4e2466d59ccbf.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/608.jpg" group-title="OTTO MOVIES",NIGHT AT THE MUSEUM: SECRET OF THE TOMB (2014)
+https://www.googleapis.com/drive/v3/files/1Yf9t6ZBq5SziFOkfKrpLmD_2R4phB0IY?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/607.jpg" group-title="OTTO MOVIES",BILAL: A NEW BREED OF HERO (2014)
+https://www.googleapis.com/drive/v3/files/1L0YuM9zIgI3kaXbb38zbwZK7zBaEUb90?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/594.jpg" group-title="OTTO MOVIES",DADDY'S HOME (2014)
+https://www.googleapis.com/drive/v3/files/1nIuBPu9EBz--pp1wYC0zCWHfdFYX4N3h?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/593.jpg" group-title="OTTO MOVIES",VICTOR FRANKENSTEIN (2015)
+http://srv28.nf21.net/files/15-2019-02-18-4a5e91daddac9423397fe944545f26a7.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/592.jpg" group-title="OTTO MOVIES",RETURN OF XANDER CAGE (2017)
+http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/591.jpg" group-title="OTTO MOVIES",MORTAL ENGINES (2018)
+https://www.googleapis.com/drive/v3/files/1BK75mxpQP8zsCtTaXiY5XVR86eMZXJkg?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/590.jpg" group-title="OTTO MOVIES",FANTASTIC BEASTS: THE CRIMES OF GRINDELWALD (2018)
+https://www.googleapis.com/drive/v3/files/1ueBcd30nR8F9-5SXRHw0_ieiuXM2ljXe?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/589.jpg" group-title="OTTO MOVIES",GREEN BOOK (2018)
+https://www.googleapis.com/drive/v3/files/1YPWoh4F4RmC-NHqLeFIM4bF5xHXqWgmH?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/588.jpg" group-title="OTTO MOVIES",MARY POPPINS RETURNS (2018)
+http://srv43.nf21.net/files/19-2020-07-05-bbb5fe1cff596a0534711d79be28e97c.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/587.jpg" group-title="OTTO MOVIES",SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
+http://srv28.nf21.net/files/11-2019-02-28-ad3bbf17b2e4db3425e76338ed3fe6e2.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/585.jpg" group-title="OTTO MOVIES",RALPH BREAKS THE INTERNET (2018)
+http://srv34.nf21.net/files/19-2020-05-20-b4648ae6b2ca3164ca176ddee0cdc14a.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/574.jpg" group-title="OTTO MOVIES",AQUAMAN (2018)
+http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/573.jpg" group-title="OTTO MOVIES",vice (2018)
+https://www.googleapis.com/drive/v3/files/1uPZCKy8Hz9l4kHNq9l3_N3ZQdIe4p4eI?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/572.jpg" group-title="OTTO MOVIES",RACETIME (2019)
+http://srv28.nf21.net/files/11-2019-03-15-07f7693d7672b9b9ecc675090f7b33e2.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/565.jpg" group-title="OTTO MOVIES",GLASS (2019
+https://www.googleapis.com/drive/v3/files/1P_xeIp-mIH1-BleYpEr-xpsh0JReP_nd?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/552.jpg" group-title="OTTO MOVIES",HOW TO TRAIN YOUR DRAGON: THE HIDDEN WORLD (2019)
+http://srv37.nf21.net/files/11-2020-05-30-b5dd6ebb5c68cc951b7b13c6e3b70c3e.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/551.jpg" group-title="OTTO MOVIES",HOW TO TRAIN YOUR DRAGON: THE HIDDEN WORLD(2018)
+https://www.googleapis.com/drive/v3/files/1tgXoVweA7jhzD8MBUhErVQLWquVcsjZF?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/550.jpg" group-title="OTTO MOVIES",DRAGON BALL SUPER: BROLY (2019)
+https://www.googleapis.com/drive/v3/files/1vn6LKF11HkrdkfYcHHFDHmAqIy4tbJvg?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/546.jpg" group-title="OTTO MOVIES",BLACK PANTHER (2018)
+https://www.googleapis.com/drive/v3/files/1NOZeW1n_jLzl7H1f4HznCJDWI2O2ihZF?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/545.jpg" group-title="OTTO MOVIES",TAKEN 3 (2015)
+http://srv42.nf21.net/files/19-2020-07-09-8ade51002df9b68fe4348b8b6bf3c262.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/544.jpg" group-title="OTTO MOVIES",RESIDENT EVIL: VENDETTA (2017)
+https://www.googleapis.com/drive/v3/files/1SuRDH856ujsMR2j8FvxU_0bjSr4CS15t?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/543.jpg" group-title="OTTO MOVIES",THE PRODIGY (2019)
+https://www.googleapis.com/drive/v3/files/1IdHm083twks8-Hx4tmZp27rocbZ41Pq4?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/531.jpg" group-title="OTTO MOVIES",CRAZY RICH ASIANS (2018)
+http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/530.jpg" group-title="OTTO MOVIES",ESCAPE ROOM (2019)
+https://www.googleapis.com/drive/v3/files/1a-leJQXD6yUhiiLfYRr2_UuANAspb0CL?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/529.jpg" group-title="OTTO MOVIES",BEN-HUR (2016)
+https://www.googleapis.com/drive/v3/files/1bgIyDLi5pVUduTLuaGVYcNDb3AKHdaEw?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/527.jpg" group-title="OTTO MOVIES",THE MAGNIFICENT SEVEN (2016)
+http://srv36.nf21.net/files/19-2020-05-30-1f9c59e3e680fa272896f26004e0f574.mp4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/523.jpg" group-title="OTTO MOVIES",BABY DRIVER (2017)
+https://www.googleapis.com/drive/v3/files/1VRGxjEy2o8T2JnUUdaAP8p1k-Vao6Yyr?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/522.jpg" group-title="OTTO MOVIES",RIDE ALONG 2 (2016)
+https://www.googleapis.com/drive/v3/files/1dyDqEa1c6dhRVZOsLl9JII4EYPFE9Yxt?alt=media&key=AIzaSyAN3ur11jWoVfYZhBWzkMigW5tjS3zDF5I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/521.jpg" group-title="OTTO MOVIES",FENCES (2016)
+https://www.googleapis.com/drive/v3/files/1UTZuGUAT9PXkLQWvp4BuVYEmJi805EPf?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/505.jpg" group-title="OTTO MOVIES",FINDING DORY (2016)
+https://www.googleapis.com/drive/v3/files/12Ne-XldGjsyfJgnwxy6F4B34C7z9CWYV?alt=media&key=AIzaSyDKfKw0W37YoFq4s_Ho2BoRNPiPO7Kgavs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/504.jpg" group-title="OTTO MOVIES",ROGUE ONE: A STAR WARS STORY (2016)
+https://www.googleapis.com/drive/v3/files/1PWGUA_NJVCa7fP8C-NVEob9avtco1Psu?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/500.jpg" group-title="OTTO MOVIES",SOUTHPAW (2015)
+https://www.googleapis.com/drive/v3/files/1UAaF_cQerSsxnWqlL4r09knQ54dvqZTY?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/499.jpg" group-title="OTTO MOVIES",BILL & TED FACE THE MUSIC (2020)
+https://www.googleapis.com/drive/v3/files/1Phhy0rjSt3XCtLSh0y8N0wyfDogbNbhN?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/498.jpg" group-title="OTTO MOVIES",UNBROKEN  (2014)
+https://www.googleapis.com/drive/v3/files/138ULN0bJjVURpAFY28LEcnYSbtM3ivtD?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/497.jpg" group-title="OTTO MOVIES",SULLY (2016)
+https://www.googleapis.com/drive/v3/files/1CMlsBsbTOgvQLKrxhMH7pmpL2jiiQfKI?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/496.jpg" group-title="OTTO MOVIES",ZOOLANDER 2 (2016)
+https://www.googleapis.com/drive/v3/files/1TOHqJvRvFRdbPj4bZC8VqnsqHDP4ry7x?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/495.jpg" group-title="OTTO MOVIES",ME BEFORE YOU (2016)
+https://www.googleapis.com/drive/v3/files/1u0Hko0l_B9IsSBUHX9AYNoYveiHEsdkb?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/494.jpg" group-title="OTTO MOVIES",THE SHALLOWS (2016)
+https://www.googleapis.com/drive/v3/files/1wM9kM4gL7lHsdMR_dAf1CrM3JWqu1ihV?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/483.jpg" group-title="OTTO MOVIES",WAR DOGS (2016)
+https://www.googleapis.com/drive/v3/files/1EKSFMRjZTk7EIinSorKUVdyY49QlimHe?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/481.jpg" group-title="OTTO MOVIES",BLAIR WITCH (2016)
+https://www.googleapis.com/drive/v3/files/10-DL5QPnbvxI0lB-LQOSTVzkjpovbijv?alt=media&key=AIzaSyAvKCusngMLaVnqQrZJEFQ0lX6SfhWFgf4
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/480.jpg" group-title="OTTO MOVIES",PATRIOTS DAY (2017)
+https://www.googleapis.com/drive/v3/files/13A_5w-z5jQJMyXYqdW-UTLLHbsyZaN5W?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/479.jpg" group-title="OTTO MOVIES",SUICIDE SQUAD (2016)
+https://www.googleapis.com/drive/v3/files/1kBxH8WpDTKiU1JBoJsT3ISnomp6-DcIa?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/478.jpg" group-title="OTTO MOVIES",THE JUNGLE BOOK (2016)
+https://www.googleapis.com/drive/v3/files/14hAORNO4Kg0P0tF4YUAmm1Y_DkHFqb6q?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/477.jpg" group-title="OTTO MOVIES",CAPTIVE STATE (2019)
+https://www.googleapis.com/drive/v3/files/1fohYLpfeiBsPEUJ7c9BX38Y-uuvKXBbr?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/475.jpg" group-title="OTTO MOVIES",COLD PURSUIT (2019)
+https://www.googleapis.com/drive/v3/files/1B6TuCgDMlJrhZG7IchzWkOwSJvn_oAoM?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/474.jpg" group-title="OTTO MOVIES",MAZE RUNNER: THE SCORCH TRIALS (2015)
+https://www.googleapis.com/drive/v3/files/1OXADrXNYsNwu7b271fN5DNeOngDxUasj?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/462.jpg" group-title="OTTO MOVIES",HOTEL MUMBAI (2019)
+https://www.googleapis.com/drive/v3/files/1zjA2HtHFux9g2YFDzK_KmNZu4D2dD7DW?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/461.jpg" group-title="OTTO MOVIES",CENTRAL INTELLIGENCE (2016)
+https://www.googleapis.com/drive/v3/files/1GHLVCvTS0By9Plq_xrd7OYN8ZBksqfje?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="OTTO MOVIES",COLLATERAL BEAUTY (2016)
+https://www.googleapis.com/drive/v3/files/1SGRFB2HbuDJQ7uJiPtjcxCzn_-C_BdNy?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="OTTO MOVIES",MASTERMINDS (2016)
+https://www.googleapis.com/drive/v3/files/0Bxo8Gbcc3Qdxejd1YktydEgxZ3M?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/458.jpg" group-title="OTTO MOVIES",THE ACCOUNTANT (2016)
+https://www.googleapis.com/drive/v3/files/1AYzUnKPVV90AOSuB6cOPcfrUWPfaMTHI?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/457.jpg" group-title="OTTO MOVIES",DUMBO (2019)
+https://www.googleapis.com/drive/v3/files/1tW8h5pZMNJZM3cNQnVgaSJMMlVeyjvGD?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="OTTO MOVIES",US (2019)
+https://www.googleapis.com/drive/v3/files/1gZVK8lHYQf0dlq1o-gsPt_lOQTXtTBLI?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http:////185.238.0.145:1313/uploads/video_thumb/455.jpg" group-title="OTTO MOVIES",LION (2017)
+https://www.googleapis.com/drive/v3/files/1lbePK_WvJl_eauHTontfa4dIp6QI9pM5?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/454.jpg" group-title="OTTO MOVIES",THE CONJURING 2 (2016)
+https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=media&key=AIzaSyBzLcrOuNX5ztVspTiSnCrboTal8XUA4O8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/453.jpg" group-title="OTTO MOVIES",THE BOY (2016)
+https://www.googleapis.com/drive/v3/files/1u-WJhhhXrr2pWVBHozfFdQHEBb_YocOe?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/439.jpg" group-title="OTTO MOVIES",THE 5TH WAVE (2016)
+https://www.googleapis.com/drive/v3/files/1Cfwd6D5QmWYbloN66LDTjF0vOVpiPxdy?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/438.jpg" group-title="OTTO MOVIES",MOANA (2016)
+https://www.googleapis.com/drive/v3/files/1yb9d8jhrmbj-A_aaGYKk7hoGmroY2ekL?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="OTTO MOVIES",THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="OTTO MOVIES",THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/436.jpg" group-title="OTTO MOVIES",THE AGE OF ADALINE (2015)
+https://www.googleapis.com/drive/v3/files/1O8NJfbfDG_FbzAq9qzDj9RiIm8SVxnJO?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/435.jpg" group-title="OTTO MOVIES",KINGSMAN: THE SECRET SERVICE (2015)
+https://www.googleapis.com/drive/v3/files/1w9w-2Hmlu_SDumVUzfeOGJWjn4PTHqMa?alt=media&key=AIzaSyC-gxNp5d22mmMlaogOwqrGg5_ffBCNsTQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/434.jpg" group-title="OTTO MOVIES",A MONSTER CALLS (2017)
+https://www.googleapis.com/drive/v3/files/1o_9k5L637mHQ11qO923cY1rF-9u3AWDi?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/433.jpg" group-title="OTTO MOVIES",THE BEST OF ENEMIES (2019)
+https://www.googleapis.com/drive/v3/files/1o5I0eTT-oGvywvSzTVzeU2Of1-lcrIrk?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/432.jpg" group-title="OTTO MOVIES",ARRIVAL (2016)
+https://www.googleapis.com/drive/v3/files/17AN04HLod-Zr4F8MRzuHbp5BEooqGe55?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/431.jpg" group-title="OTTO MOVIES",KUNG FU PANDA 3 (2016)
+https://www.googleapis.com/drive/v3/files/1AV-SGdC59BgbKq7-yfZznbzl0kLYjYTX?alt=media&key=AIzaSyAuCrv1Hw0LElMyONyzOxVPE3Ps3pbjzVs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/430.jpg" group-title="OTTO MOVIES",shazam (2019)
+https://www.googleapis.com/drive/v3/files/1BVfzx4wGJ_6pAgeEO-q-y_2JLE4c2HSR?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/429.jpg" group-title="OTTO MOVIES",AMERICAN MADE (2017)
+https://www.googleapis.com/drive/v3/files/1EghTV1T9XXj4lUXfwh-mooLHWhwLiEeb?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/428.jpg" group-title="OTTO MOVIES",THE MUMMY (2017)
+https://www.googleapis.com/drive/v3/files/1iDIh3K7U9-OAPgrhjqm7UDBn5lCLbbwL?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/425.jpg" group-title="OTTO MOVIES",THE WATER DIVINER (2014)
+https://www.googleapis.com/drive/v3/files/1iBsQ5yLpEo6PycFz9CAONmBhuY5RjmMm?alt=media&key=AIzaSyBCE4gSg4gNZ2_86fz-LjZv-FrwNMbFHBE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/424.jpg" group-title="OTTO MOVIES",PENINSULA (2020)
+https://www.googleapis.com/drive/v3/files/15XS2hVAkqzvpyWFumbEaEaY3mvqxmXtI?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/411.jpg" group-title="OTTO MOVIES",SILENCE (2017)
+https://www.googleapis.com/drive/v3/files/1DK6wbGXtDKrg5Ww4lYK6KLOxrfWwwXuF?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/410.jpg" group-title="OTTO MOVIES",RISEN (2016)
+https://www.googleapis.com/drive/v3/files/1m95jF58a1MGOzJUN8yE4YRYOIRiuQI-a?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/409.jpg" group-title="OTTO MOVIES",STAR WARS: EPISODE VIII - THE LAST JEDI (2017)
+https://www.googleapis.com/drive/v3/files/1Itw7BPmhV5qHge_HCa3aRl2X7magQraR?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/407.jpg" group-title="OTTO MOVIES",THE SHACK (2017)
+https://www.googleapis.com/drive/v3/files/1_uwkPJlY8WbGHVdpywctfOTqq0q5MQhc?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/406.jpg" group-title="OTTO MOVIES",12 STRONG (2018)
+https://www.googleapis.com/drive/v3/files/1LNRVj7vNywMoWQTkd493xlPTno3rAJCr?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/478.jpg" group-title="OTTO MOVIES",THE JUNGLE BOOK (2016)
+https://www.googleapis.com/drive/v3/files/14hAORNO4Kg0P0tF4YUAmm1Y_DkHFqb6q?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/477.jpg" group-title="OTTO MOVIES",CAPTIVE STATE (2019)
+https://www.googleapis.com/drive/v3/files/1fohYLpfeiBsPEUJ7c9BX38Y-uuvKXBbr?alt=media&key=AIzaSyDyPTrYypcLcKp5AOHnJLtQ_aaUJCt74_Q
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/475.jpg" group-title="OTTO MOVIES",COLD PURSUIT (2019)
+https://www.googleapis.com/drive/v3/files/1B6TuCgDMlJrhZG7IchzWkOwSJvn_oAoM?alt=media&key=AIzaSyD5V1GCfvsuYwgzd_Q_WpK006-fSdTQskE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/474.jpg" group-title="OTTO MOVIES",MAZE RUNNER: THE SCORCH TRIALS (2015)
+https://www.googleapis.com/drive/v3/files/1OXADrXNYsNwu7b271fN5DNeOngDxUasj?alt=media&key=AIzaSyB9AZTRDBD_Ju8slZIm1a94mwYRyUS3I6I
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/461.jpg" group-title="OTTO MOVIES",CENTRAL INTELLIGENCE (2016)
+https://www.googleapis.com/drive/v3/files/1GHLVCvTS0By9Plq_xrd7OYN8ZBksqfje?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="OTTO MOVIES",COLLATERAL BEAUTY (2016)
+https://www.googleapis.com/drive/v3/files/1SGRFB2HbuDJQ7uJiPtjcxCzn_-C_BdNy?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="OTTO MOVIES",MASTERMINDS (2016)
+https://www.googleapis.com/drive/v3/files/0Bxo8Gbcc3Qdxejd1YktydEgxZ3M?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/458.jpg" group-title="OTTO MOVIES",THE ACCOUNTANT (2016)
+https://www.googleapis.com/drive/v3/files/1AYzUnKPVV90AOSuB6cOPcfrUWPfaMTHI?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/457.jpg" group-title="OTTO MOVIES",DUMBO (2019)
+https://www.googleapis.com/drive/v3/files/1tW8h5pZMNJZM3cNQnVgaSJMMlVeyjvGD?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/default_image/actor.jpg" group-title="OTTO MOVIES",US (2019)
+https://www.googleapis.com/drive/v3/files/1gZVK8lHYQf0dlq1o-gsPt_lOQTXtTBLI?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/455.jpg" group-title="OTTO MOVIES",LION (2017)
+https://www.googleapis.com/drive/v3/files/1lbePK_WvJl_eauHTontfa4dIp6QI9pM5?alt=media&key=AIzaSyDcV83M1enHxlguEq9IFQaZVRvqNSalm6c
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/454.jpg" group-title="OTTO MOVIES",THE CONJURING 2 (2016)
+https://www.googleapis.com/drive/v3/files/1f5YFCHuFFFiVIHrqF2Jp-cmRh6bW2SYP?alt=media&key=AIzaSyBzLcrOuNX5ztVspTiSnCrboTal8XUA4O8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/453.jpg" group-title="OTTO MOVIES",THE BOY (2016)
+https://www.googleapis.com/drive/v3/files/1u-WJhhhXrr2pWVBHozfFdQHEBb_YocOe?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/439.jpg" group-title="OTTO MOVIES",THE 5TH WAVE (2016)
+https://www.googleapis.com/drive/v3/files/1Cfwd6D5QmWYbloN66LDTjF0vOVpiPxdy?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/438.jpg" group-title="OTTO MOVIES",MOANA (2016)
+https://www.googleapis.com/drive/v3/files/1yb9d8jhrmbj-A_aaGYKk7hoGmroY2ekL?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="OTTO MOVIES",THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/437.jpg" group-title="OTTO MOVIES",THE PURGE: ELECTION YEAR (2016)
+https://www.googleapis.com/drive/v3/files/1ozfU6g96p9-z7c8PKyosuKrW-iyhrkJd?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/436.jpg" group-title="OTTO MOVIES",THE AGE OF ADALINE (2015)
+https://www.googleapis.com/drive/v3/files/1O8NJfbfDG_FbzAq9qzDj9RiIm8SVxnJO?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/435.jpg" group-title="OTTO MOVIES",KINGSMAN: THE SECRET SERVICE (2015)
+https://www.googleapis.com/drive/v3/files/1w9w-2Hmlu_SDumVUzfeOGJWjn4PTHqMa?alt=media&key=AIzaSyC-gxNp5d22mmMlaogOwqrGg5_ffBCNsTQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/434.jpg" group-title="OTTO MOVIES",A MONSTER CALLS (2017)
+https://www.googleapis.com/drive/v3/files/1o_9k5L637mHQ11qO923cY1rF-9u3AWDi?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/433.jpg" group-title="OTTO MOVIES",THE BEST OF ENEMIES (2019)
+https://www.googleapis.com/drive/v3/files/1o5I0eTT-oGvywvSzTVzeU2Of1-lcrIrk?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/432.jpg" group-title="OTTO MOVIES",ARRIVAL (2016)
+https://www.googleapis.com/drive/v3/files/17AN04HLod-Zr4F8MRzuHbp5BEooqGe55?alt=media&key=AIzaSyDw_3qFMsRubKVvcRYhXcptrMLFzBGipIo
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/431.jpg" group-title="OTTO MOVIES",KUNG FU PANDA 3 (2016)
+https://www.googleapis.com/drive/v3/files/1AV-SGdC59BgbKq7-yfZznbzl0kLYjYTX?alt=media&key=AIzaSyAuCrv1Hw0LElMyONyzOxVPE3Ps3pbjzVs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/430.jpg" group-title="OTTO MOVIES",shazam (2019)
+https://www.googleapis.com/drive/v3/files/1BVfzx4wGJ_6pAgeEO-q-y_2JLE4c2HSR?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/429.jpg" group-title="OTTO MOVIES",AMERICAN MADE (2017)
+https://www.googleapis.com/drive/v3/files/1EghTV1T9XXj4lUXfwh-mooLHWhwLiEeb?alt=media&key=AIzaSyBnBt1wyCtcjf4S_tCSZvncRlV_Tmi5WNQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/428.jpg" group-title="OTTO MOVIES",THE MUMMY (2017)
+https://www.googleapis.com/drive/v3/files/1iDIh3K7U9-OAPgrhjqm7UDBn5lCLbbwL?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/425.jpg" group-title="OTTO MOVIES",THE WATER DIVINER (2014)
+https://www.googleapis.com/drive/v3/files/1iBsQ5yLpEo6PycFz9CAONmBhuY5RjmMm?alt=media&key=AIzaSyBCE4gSg4gNZ2_86fz-LjZv-FrwNMbFHBE
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/424.jpg" group-title="OTTO MOVIES",PENINSULA (2020)
+https://www.googleapis.com/drive/v3/files/15XS2hVAkqzvpyWFumbEaEaY3mvqxmXtI?alt=media&key=AIzaSyAroCiOlG5K-KRmqSXx6v4QrdG-BbYnjGQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/411.jpg" group-title="OTTO MOVIES",SILENCE (2017)
+https://www.googleapis.com/drive/v3/files/1DK6wbGXtDKrg5Ww4lYK6KLOxrfWwwXuF?alt=media&key=AIzaSyCuyO4TbPZz7Oe22hcLZJWS1TkJJzxF5Ik
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/410.jpg" group-title="OTTO MOVIES",RISEN (2016)
+https://www.googleapis.com/drive/v3/files/1m95jF58a1MGOzJUN8yE4YRYOIRiuQI-a?alt=media&key=AIzaSyDKk0lFQT69yWc0e0rJRouxJcSj7OsmWjc
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/409.jpg" group-title="OTTO MOVIES",STAR WARS: EPISODE VIII - THE LAST JEDI (2017)
+https://www.googleapis.com/drive/v3/files/1Itw7BPmhV5qHge_HCa3aRl2X7magQraR?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/407.jpg" group-title="OTTO MOVIES",THE SHACK (2017)
+https://www.googleapis.com/drive/v3/files/1_uwkPJlY8WbGHVdpywctfOTqq0q5MQhc?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/619.jpg" group-title="OTTO MOVIES",GOOSEBUMPS 2: HAUNTED HALLOWEEN (2018)
+https://www.googleapis.com/drive/v3/files/1y3HEZYWANDAENkmfc2fyY34uf5h4_cXt?alt=media&key=AIzaSyDaqRKw5VBqLBEDs7HQ7DPNp6hNpFngBWs
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/poster_image/622.jpg" group-title="OTTO MOVIES",A-X-L (2018)
+https://www.googleapis.com/drive/v3/files/1pXHOMlBDEWv_HKjwYTauoFUvyd81QFmM?alt=media&key=AIzaSyBJbk7Af8gmIYrD3ruLwrexTwjRpJHGFKw
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/374.jpg" group-title="OTTO MOVIES",KONG: SKULL ISLAND (2017)
+https://www.googleapis.com/drive/v3/files/1QUGUyO31LdS82esdNejiZJCCk4YpDuXj?alt=media&key=AIzaSyDAHybMpT-bKZnMSclMwtQOYEza0yWKOjI
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/194.jpg" group-title="OTTO MOVIES",DUNKIRK (2017)
+https://www.googleapis.com/drive/v3/files/1KdRSx6GMPgSoRe6jJR9WU0t4ZFeUsET6?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/193.jpg" group-title="OTTO MOVIES",FIRST MAN (2018)
+https://www.googleapis.com/drive/v3/files/14rZeVp6V_k1jsUs5YCfh69nDLud1le0b?alt=media&key=AIzaSyC-gxNp5d22mmMlaogOwqrGg5_ffBCNsTQ
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/49.jpg" group-title="OTTO MOVIES",JUSTICE LEAGUE DARK: APOKOLIPS WAR (2020)
+https://www.googleapis.com/drive/v3/files/1WWJCIZqPKmrDTcrQuoUcjcuMVP-MZEX7?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/50.jpg" group-title="OTTO MOVIES",EXTRACTION (2020)
+https://www.googleapis.com/drive/v3/files/1EKH3FAOHQ5cxxHBsRqJXGUayZCv-UALz?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
+#EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/6.jpg" group-title="OTTO MOVIES",EMMA (2020)
+https://www.googleapis.com/drive/v3/files/1qEt5nb2vX20H3sEyLxqefOpaPf6l7MB6?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+
+ 
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/z3pmETBdWQNxjQADaobGUFxyluh-150x225.jpg" group-title="VOD MOVIE INDO",Hunter in the Blue Side of Manchester (2020)
+https://860718902.tapecontent.net/radosgw/bGwJrB8jdeHRep/E-goQGNCtqI6CyK8uZSvDmhmhvVe4vR73SRH2FYdXqV3xDCdjG0oafjoUvb2fVhHo4p-nSrGfDS4UmwyuQ8YISA7VRqc44QVMzGeJRHGJ0cXlpWY_d8_0ASQB-Lhq5A3j55XCrrDv4EMMdVGeQOEmApBAcB4DkDqhO5s_kGXIGOwenqiPNsHScwLKAQAj8bXCFFwDeOZvmf_tChzJqKmNcCvCRMnL-K6-eitsRP-sSHgLpVYrseIoADdLrjfSf1kMwUrAux4awAVDO2BQ_vQ9aDRW5ACUiKL0Hm8F1qg1QfwP9FLCbu_6Wu8LXYLt77XmClG8pBN4hSHscNo/driveid-113530-terbit21-com-hunter-in-the-blue-side-of-manchester-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/10QvfyxcLW0sGtbZSJXFkF4nOAt-150x225.jpg" group-title="VOD MOVIE INDO",Humba Dreams (2019)
+https://908374512.tapecontent.net/radosgw/3We8w2j7QrudkqA/qRHmOknpYfTAPuuRzaD02x908GJS_O8nt6QbOne7CMDLqyy3sTwz_mPVNHk8ZkKPeFrYA9hM3VpuG6-41qziGEwFbu2yhvB6Ph1tlnAelOvxPDsm4Nt-t9R9OoryE5B-6-2a_mt-mOFIrt5LllwVTYDQOb6hJaS3yZeukqRBce9kAq9SdPO3SlaEEYM9ZeROKU6KsaWWHDg-Ea7Bxc623BrCtnsoSO9SCCdGRW-hJ2CAB57g5ud9F39K23iSBuC_U8soVNA6cw9bn_assCj6GAaM5lGcI2-qUDNaepzoD4K8ew6TH9HP4IeASBg/driveid-113467-terbit21-com-humba-dreams-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/jyGErEBDF3nX6cXAEqovYfS6XGM-150x225.jpg" group-title="VOD MOVIE INDO",7 Hari Menembus Waktu (2015)
+https://2448396291.tapecontent.net/radosgw/9vb6YJrwV6Ua32m/YerBjfPOTKINjmB8BKfUbPZumpMMmY1zXtodGuFNtJ4p0jPKSqvwksUCx08RZOHWvfU-1ZUEmiZJU6aCYBaF5q8RyuMARcN5Cn40NcKyX4PVmmxl3TzyOSfYW45GNqTuulFZGwfSNsGz13lD2DnEeCS0uv6HjcOMQURzLniNOVxC_-jkNNriT5sIv2L85X-uZWyn91BmEZTFi_tipOl7hLaQAFCuYqZf-mD84v36kUMZHmjmslf9q7emqdn3tqUXoKxqInrFEnVSeGnOtUB04EjVXoyEQ0-TV8o6o-0UqZ942B4OOnxWc3erVns/driveid-113403-terbit21-com-7-hari-menembus-waktu-2015.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/2RYBxVyViYQzZxB2IOzk8o1e8XK-150x225.jpg" group-title="VOD MOVIE INDO",Jeritan Malam (2019)
+https://908357361.tapecontent.net/radosgw/ll42BQkLMmC703W/XeyOpqSS-1rmfIIQgi38zrmKun1HFfAwE4kiS4AOVvQjXvJl20RaECmmI10n8sgWFn2jFxoqSb3gfZpUPB7R8Qn3mj6_8aA081KeV3dxdNpddYZ2F0Hv0XASJHNFOsczPsiPlOOtT_B-LAkmYPPy0ic_QaqXibwEMjipoJVGnBDFy5vKhCta2GCuq3QKoImgD0PHesLjid0V5Ltc-tP46g6HAJzw0SEcuvF6OjmLe_EbnI11RBmrH0lELtg9eHiWJe3mMO2R0ZC7XraHUNHtQQaITBp7S5Yn3FJ356jdFRG8BxSu7xF82ti9hzU/driveid-113372-terbit21-com-jeritan-malam-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/9BYferAWg8ItfhxFGKi3QXrRzO0-150x225.jpg" group-title="VOD MOVIE INDO",Satu Suro (2019)
+https://860718944.tapecontent.net/radosgw/OX2o41mAYyt9ro/C9F_1l4iIDlkGcQhID7UIwPeuvbyrsln3OmUrU10yNeNcEfZIdHChsGObljEJd3qYITeJtJ0G4sKJ83SPBIWzWeKfDbHT5qkXBTod8DZREGvnMqRLmJrV7rqjUr3vI0fcFcJmQtGv1ZeErTicxrobXuC_b9pmiKv_mYIsDnuyWTB-VgDTG7V-5Tnl_yb8wbfy5OetrBk8SbaMLPFRwQW0hlnBPu_uoNQk4KQdsdoWx2QISWeZfRqCIbRMzYwj2plTCGmYhivJn7cCxOOy3R30TA6qmq4Sozs6wLdM96idJQLv0niXfmhnK64qw4/driveid-112714-terbit21-com-satu-suro-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/mYjhuSqeNQCNSoUHA7BLL95eK9J-150x225.jpg" group-title="VOD MOVIE INDO",Ayat-Ayat Cinta 2 (2017)
+https://908357218.tapecontent.net/radosgw/7jP4L2pbqlTJyW/K511TAmqHbAmHOTyQz2gmF9mXQr7ZvdsJHR_Ugwvqeb7T2T4JsbtWhs1mksun0Z4ZlvP61h6HfPm_gaHveDXIlmim7iYv7zyinlsp3u10VaJu0RFJVHHWdpechXuhPCPg9tia7q_zIbdRBy0q3LxE-DCDnDO9YXJoPJpkpghi1nKVhm8EmsPLV92hC_GsgYiMJ_YdQAgY8uqsrS-o2OHPE98fUATrG4x8ZY4dYqbJHWmffInjU6yKumqs3vFS_HTU2l46Svyl8IayeTt7lo1E71-i1pgY-3kQdSWFinYdKNuWWhCzIeCyuWc3jQ/driveid-111950-terbit21-com-ayat-ayat-cinta-2-2017.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/3igL8UbIBCaU5bshOm7GUzdZIiK-150x225.jpg" group-title="VOD MOVIE INDO",Surga yang Tak Dirindukan (2015)
+https://861520049.tapecontent.net/radosgw/D27OGMJRR6tko8Z/xJGPObsexaQbTAMPcaxc_CajUYqGFl_jvJfgg60mj-nYTepWLtc6W7vCw3eoi0jIqjsW9Y38FSlGZ2hLFwq3tKVxAUsSHGTznvX9yCFRQybns2XHkVK1-X0rXz5WjrXOCWmjYf5TE4HIhTu2QeImmubbw8qy-5r2k368pN0vxe6W4_35fA-E2xbLU4XBVJ39Rt9zpxjcgovu_9Uzp1UykBmaUKCRPdISqSvs-xsKC-kin8nYq1qaZvzdGoA96dg_UrVbQKdTgWX4wi3kiUZSh74j7Pb7isr-I-c8b_96xhLiUcGZ1FJ_9aisiQA/driveid-111675-terbit21-com-surga-yang-tak-dirindukan-2015.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/10/kpnpjvcRxZkqopOhv34YF0Bx5UX-150x225.jpg" group-title="VOD MOVIE INDO",This Earth of Mankind (2019)
+https://2475155089.tapecontent.net/radosgw/JpgZQlXymLhGdb/zxhItmsCInAFtuLT6xqsY8ZcFRDbRFsMhrL1Ni7UFVeciDet5Z-djL-mJvIKhr73DDC2iuKvYHZbSpoyazzpT0vXiYedIZwnr_0sIXy2xABLGdr_i01wXnKRH3r_XCm_dBb4TVbfLrFuEqYMiXb0bDJHtXvdD3TYyxQnRK0jCKqNVK7PIOtGWs1gPGOOW7j0enQs3BOX9rIEFBWYkVQob-Tg-mSQtN8cRvVe037sDQhqf-HpYMZrBWdwtC-qrTSXGuuHaT4ri7YvI6jhKXb2vVSENkz5qXs1u1pV9K4681zNemI59FNLPGzF7Y8/driveid-111402-terbit21-com-this-earth-of-mankind-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/10/lXkLmOCpGaarMvQVkMNCDzfxIVq-150x225.jpg" group-title="VOD MOVIE INDO",Preman Pensiun: Kesempatan Kedua (2020)
+https://860718378.tapecontent.net/radosgw/l4kqyOb8xMhzPz/HmeNYMT1wrp_ASbU2HyUE9s30IOQBL_YTMnFfy13QBoRBZoQVMyo_I8rDB1a35AGVdXdFhTTHZYWZnG4eC_50PuNqjgl2cN_7yiPG8crTth-5hGV8rPr6N7BKvoZ09Bu7gFquKv4XaRUhkR8mZX-DAcXs_6oH--BUXTUoIjIG0683NFnr6CkS-C0kdxI49tTlpmK8molGoHCHZ8SORuoGZQCQJtskoQcv-ahzI_Nr-7HnhhNYENl4AsbKfilTlPElK0QDxR8H7-hFCBnqLJtMGCoOG75L0DvihTqvQhDMzxX-q0yNCl8eQ1byCE/driveid-111363-terbit21-com-preman-pensiun-kesempatan-kedua-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/irQBiAtAAH14gIxUWsTuMAGJhmK-150x225.jpg" group-title="VOD MOVIE INDO",Sweet 20 (2017)
+https://860718921.tapecontent.net/radosgw/apYYeP7o1Ghx3LV/d_YazkofjEYAoo0gFMH6PmJr0Jvt9VgEOVD6uZq33FmUQnTfL8dWAXmVnD06JpdEMtwDw8KpEKorN0rQqfPFE-9kKmyQCK_YQs_WPq7AB4SP7u7sUdKocKZj_v7rNHj5Fl6kngC_S3h-CZqwxlU3ZjjQvqou31Mqh-9hPG_uqsjQmX9oDheA0E9lY1zdmpBnV51A2pX59-5OqXEbUh7AOYxDZdeBhG_zo4BvxruPGmiwNID9sL4iLlQzbiTgKhQbBsgR8KdgPvhN5sQtYrG52HA76NTAs9LiMEeMs9LdNT7zbgRngaRjBe_2REw/driveid-111361-terbit21-com-sweet-20-2017.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/10/xJcwkUdF7O5LVTMCJab8abpRaUp-150x225.jpg" group-title="VOD MOVIE INDO",Kartini: Princess of Java (2017)
+https://861628971.tapecontent.net/radosgw/YK94pvPp4lu2dd/piIwq3_LgacxICzdtqGlpKer37YMfc-W4ECf5dNcz3DprAMH5_OzQUuOD7Xra0_q4BRxNhqKlLb317DBAc2X3K0xySds0ZBV3Ad8fFevphK2M-4lTsSTrBLI0PylbzQLPV0f_S4lY0apEUgUwU7fr4pWQJhuPwCyrq-2XWJf69IV8JyEGPyib9D0UGrAThDsXaU99-6wy-3aMdqtISadQRnfn8bAl7FtDBCTl1-g_Yt5Z_AZqKLStIqnswd5dPT5txQ081BHU9dc6DLNK3x5kgFNEomg2QT7IEHrldE4MbTVwXl6_ow6lfKFdfQ/driveid-111356-terbit21-com-kartini-princess-of-java-2017.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/wRxpSCorVpPzBfnkO7LTnvJcC96-150x225.jpg" group-title="VOD MOVIE INDO",Merantau (2009)
+https://2448424566.tapecontent.net/radosgw/d3Q4qDMbXafZoo/WKU64m_frK5jRdazuNFzmrDAjou0UamkG1n4hbttp5gnRs_6XEylUM1MTKn24XGUjUmlUurnTgD4g4iophtYUhDTSBqDeRUrEgQ4n3Lpvksfwlp8AnQJLtAeGlIsLzgevGqHPQoJZV6GA--v_qZlx6wRuntPg_pS25y--wteGdbCuwk2ccn4Ff-GwpbKNqqkqNl2do-wzLqTYj0z8_v79UsMuRma2DCZr9ResHgAUrRB4nBkesknOVonxWOUooA4HwfaMeJlqaYGYZmf7YCFrrhyann2auQA7fAKK9NJgrUUDSKggfDFu5le9q8/driveid-108472-terbit21-com-merantau-2009.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/08/jIhXhSZeRJjbDwLJBUFFqQ6GDVJ-150x225.jpg" group-title="VOD MOVIE INDO",Guru-Guru Gokil (2020)
+https://908357259.tapecontent.net/radosgw/LdOodrzdXoCv0y/_l0tMXRW462xnZ14mg1UG-_3e-J2F3anioAro0HFuQnLD-GZzdlnJE-_nngGIIf5qa3T-xkbyyxzFYOYQYXFwsvwOENgZwQlF2eP2jkrCPQ0jqJh6NDgiub1mOeTez0_0RQHFBhTog7qDq7Ik0FNRAfivBgWrtUw7vY8l2pOKZALqvxpECAYV8vHNkNJJalv5AmGzrv0gkvRH1wzjht4sQw5EJp4rxOaTZwd9C6eiYvUIt4zSo3ZuBMvWdsBqudzKziXE-klA5YOuE-ThpR0RcRODxcV__dCWKLQpEBRCddquenP_Btin8tkLnk/driveid-108897-terbit21-com-guru-guru-gokil-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/07/fE4MtQqQR59oXLXSgZdt1vIp8O9-150x225.jpg" group-title="VOD MOVIE INDO",Nikah Yuk (2019)
+https://861520851.tapecontent.net/radosgw/Oo4kA3wPwqhekO/wlw1C-ejZ_kAimfjZkR3ykiLgN86FgS2YS1y9jREkDlHyb5dekhhRwKTI4_GsJ-_KRM7lhMJF-DoLkb1wHct4clTvLsyICwKjxtwvRAXRFw1_6OURoN6mrjSb1EakWineufjWopkMwSjJHAm6h6-oEvoMmHyT4-I_0PtTKPVj7aiXkkkPAfGN_X3bcRBQGWo26pEdgXIANKb6B9exTQbut-WvdHrKfCTb-nT8VNzd8g1hKAjsGXNtwPLIDumhBxdZ8pjQu4iVItN2xEm9Wuw19a6TtSD3LJJopCAeExcIfCMHkfEiTFKDJZqCOE/driveid-107337-terbit21-com-nikah-yuk-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/07/5C18wEMckq0oAPUmotD6qg2y1cg-150x225.jpg" group-title="VOD MOVIE INDO",Dignitate (2020)
+https://908471558.tapecontent.net/radosgw/oL0JQMMVwwI9xr/M1F4x6PllGw4P8QD7vHZoPcr3NFYc9UYWgkJdcvoG1bMTJYL6vnFXfdwm8gsFDAH8_Zjbp_mkWMixn7x8R79-fYbuLV0AXs_-QeDPlo-gLYPWA1AHgDSb9DO-tdU1KMSvJ4OJ5hVHfoR8DyBF086yiywYy3UM8wvjI1XnHNgZe6D2tWzjoZHFf43Nl2pnUTfg3NztWZAiEoGWiTuNHPblwFXqh_nbpil-DVkmQFKiRf6qLV9QC3SsA_oiwcBMGyJE0BvMlFsZLFKpdU7CaHZxQeirE3p6SB-qgMJyJ67J68Rim3dnyxcE_fqhps/driveid-107336-terbit21-com-dignitate-2020.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/dwPRDiUAvoQmETTfWxNFXhs7IpY-150x225.jpg" group-title="VOD MOVIE INDO",Headshot (2016)
+https://867323792.tapecontent.net/radosgw/Xgm1wjjp1ysAQm/J5jS-qfpqjhnehfAiIrE5G-BELqON_puIyOAZ_74isbO0AcHxN--1uZKwyOHGACjSfslB-XeriPq_5j2WDrTouep9tLp9gzHOuYA-S7tm_NRVVLcilSH_doeA9GTyTdY20qdcauIRDaEt4WmAGs4M0AWMHnh4p0Hx6TravKeiMs7ixHUfW6GYekKxDwtpUjfpzb9vTDGoHn507pEZ3zw3pDAueL6Q7xLcS4GIwI0ryCll57oFczsPbfBGTLpC74nIdw9dUZ7Ko0-PI6EJTCgtwWBQFKr0GQm712DHd0_Z7M_-pkTRaA1G79yuZc/driveid-106320-terbit21-com-headshot-2016.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/01/310AoB3CiwnK0l68lDsJP0w4ZUY-150x225.jpg" group-title="VOD MOVIE INDO",Lagi-lagi Ateng (2019)
+https://858142519.tapecontent.net/radosgw/L11ebX2GBwURmPk/0Gr397RwQ1nBbHjdFvQoCxxYagx1CgkybrmbyFFS_eTfLFngGnIJlP00hEHhp2vJmaQbW1bSrE2P6mPwkK-jZ7iPM6BLm99z9lRNRNOVZP6qVkcJoMwNQTHh2KWo6v5hGBkcMn-zSJAUYwTw7_6OI5qoznxdL_fTWzt-FbsaL_CzM0Dgt6GIDwRhpLuQ-8sz99DGfVot5-07qLT671wlvZog2HpJD2uwS242vbyj-qOMyQ9IYjYjMzYC6JJesBUyalhM1vQqf2h4Emjh5oPjcWCBCv9FgJaVGMZF5QYi8byirToIOxoZEdoKD9w/driveid-100321-terbit21-com-lagi-lagi-ateng-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2019/07/2Makktg15hCXNv4TZMJjPMBz1BZ-150x225.jpg" group-title="VOD MOVIE INDO",Titisan Dewi Ular (1990)
+https://2760157150.tapecontent.net/radosgw/1JDJrYobP7ixDb/pKxLtRDsUO4WKCLGlTzylOqeJGucbiWa2hec-M7O4R9PFRHJN-M2Yocwhl0BLGjeCx-wfQeh1gBzG3gRvmXmAKwGy8TqSO6mGPDm1g5eYC4VBcmD-2Cp6iIdYYI-4U84wxQtSDa6zB_uN8_QsQmOgOca2VdnBDGxLOTZG8Tv9wrcEso6R8c_cOxSJ9khaWOgIx2vZdJ8gfeFf01poxGkAw5CC3QCKwDu3kdcTlRPi9fNtwl1-tF6wS_i3skMJusHg7QA40V-9oR9bEGqOl7YiUfwIcNhzWwslw0P3YwpeqiEtrEc-9adHcINLVA/fileid-182138-terbit21-com-titisan-dewi-ular-1990.mp4?stream=1
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/06/film-cicak-man-2-planet-hitam-2008-150x225.jpg" group-title="VOD MOVIE MALAY",Cicak-Man 2: Planet Hitam (2008)
+https://858141720.tapecontent.net/radosgw/lx2xbkmoPDC7yxa/oRuaJSfmX1kJ3kfNye0Hs5Y0m3SfmoMcbuEBIu0ya5keIev70QI1cVcjRJ9z1Hw67CPzFWvfkvGqyB361L5wqmoJeWISoMC7v7GawfjIuSOKdZg8a-IwRpOrMbCl_PddfPrjAwzXLa0V6jii997sbdc07CHtYFGUlV7p32vnX6RXLwOaOt51TxB2mJb6rF5cvTqbGbuB965v8_j2fC9jVV6PnRPoccarx5c-WxNFPnKmbdHoghsTAuZgZXOygTJ8E9imN8znexTaG8kiDjx0UsfnoGiOP7p_54kt4tujufst4NZAFbbaBw8wmpI/driveid-115808-terbit21-com-cicak-man-2-planet-hitam-2008.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/02/l89W077xUEsDakVEWkwkwW8IEX5-150x225.jpg" group-title="VOD MOVIE MALAY",Wira (2019)
+https://861520051.tapecontent.net/radosgw/mQdRYr2YKmibgwg/1fN1Zq_t33AuCLkK8bYaRw_zUtWrBxtONaXws-18kNRwKZY2ERGPCYr6HmxP_RlX6dt6P2NMENRqIlhQrZHwyS1KRE1juLfgcuFG8K0MSo6A7Iex7ou5aClpETRBNTgtorELe06BX5NRFS_G0GX3R4rWbS4KCREVIb_RMXStXSmGQyggoJZfKhbkSvrxf_1rKEVkPnh08rVhB5NRR4FzQCbZnNwCs0_UBGdOeqpG7Gjet7YCnKBSj57AXUk5n-FyJScfBeFUj9Vi6_-k7Jn39WbgF2d8NIiW7r-FOA/driveid-100566-terbit21-com-wira-2019.mp4?stream=1
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2019/11/vNz7OoY5STI0J9AJvtwB8IZst5i-150x225.jpg" group-title="VOD MOVIE MALAY",Sangkar (2019)
+https://861481692.tapecontent.net/radosgw/L1WPGDA4XkF6j4/YpL_YpWxyJj_gCA7lBq3PjHShxSEd8_4fGXjI-KKD9a3MB7uUYruX9sQvfXwUApC1hvrH7XgAtbEcYpiE_JYMiYLG8iZLZ_Dlgs-n2bOW870XuWdHWJUmNXbwgPi40cjXGEhr_dYNxS_4HI-8nXFfoLFHi_xQitX0K03sciVplkOr3gP5WwpXmAdJkU4tENGSECRdzhMDJIPF8_zB-lUZUNhJfggTRq2-LY0y18p_zmiYSG_UHQBsHAJfJj6DzmE_bYfgJ4mCyptvMN5d75132Ww-ztpGwyP4YFAP-4bIs7RyiI8pxciiVF-zg8/fileid-210459-terbit21-com-sangkar-2019.mp4?stream=1
+
 
