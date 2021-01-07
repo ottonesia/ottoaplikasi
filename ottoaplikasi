@@ -1,410 +1,3 @@
-#EXTM3U
-//INDONESIA
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1, tvg-ID="RCTI.id" tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="ID", RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1, tvg-ID="TVRI.id" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="ID", TVRI
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-ID="SCTV.id" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="ID",SCTV
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1, tvg-ID="TransTVid" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/trans-tv-png.png" group-title="ID", TransTV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1555954700_b744100_sleng.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-ID="Trans7.id" tvg-logo="https://x1.cdn.broiptv.online/img/trans7.png" group-title="ID", Trans7
-http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1, tvg-ID="MetroTV.id" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png" group-title="ID", Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-ID="GTV.id.MY" tvg-logo="https://i.ibb.co/Tg53dB7/20200225-085803.png" group-title="ID",GTV 
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-ID="TV1.MY"  tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="ID",TVKU
-http://103.30.1.14:8080/hls/live.m3u8?checkedby:hlscat.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1552478277703508912.png" group-title="ID",ATV
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",BE TV
-http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",GEMILANG TV
-http://stream1.ninmedia.tv:1935/gemilangtv/rtmp.stream_360p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",JAMBI TV
-http://stream1.ninmedia.tv:1935/jambitv/rtmp.stream_360p/playlist.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="MY",Live Makkah 
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="ID",Maleo
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-NU-Channel-Logo-alpha-250px-1-234x300.png" group-title="ID",NU Channel
-http://stream1.ninmedia.tv:1935/nuchannel/udp.stream_360p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",PAL TV
-http://stream1.ninmedia.tv:1935/paltv/rtmp.stream_360p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png" group-title="ID",POP MUSIK
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",RB TV
-http://stream1.ninmedia.tv:1935/rbtv/rtmp.stream_360p/playlist.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="ID",RCTV
-http://stream1.ninmedia.tv:1935/rctv/rtmp.stream_360p/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-RRI-net-250px.png" group-title="ID",RRI Net
-http://stream1.ninmedia.tv:1935/rrinet/udp.stream_360p/playlist.m3u8
-
-
-//MALAYSIA
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="MY",TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="MY",TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="MY",TV3
-https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="MY",NTV 7
-https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="MY",8TV
-https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/tv9.png" group-title="MY",TV9
-https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="dramasangat.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="MY",DRAMA SANGAT
-https://fvtv.mywire.org/streams/dailymotion/ch_ds.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/okey.png" group-title="MY",OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="MY",ASTRO NAURA
-https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MY",HELLO
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-
-
-//SINGAPORE
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&
-#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="SG",SURIA
-https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png" group-title="SG",CHANNEL 5
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDEwNyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=kW0wEsrEe7pTVkx1lThO0W7iINQ%3D&
-#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png" group-title="SG",VASANTHAM
-https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
-#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" group-title="SG",CHANNEL 8
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
-#EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png" group-title="SG",CHANNEL U
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-
-
-//MOVIE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-name="304" tvg-id="Hbo.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png" group-title="MOVIES",HBO
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
- 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-name="304" tvg-id="Hbh.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png" group-title="MOVIES",HBO HITS
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-name="304" tvg-id="Hbf.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png" group-title="MOVIES",HBO FAMILY
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-name="304" tvg-id="Hbs.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png" group-title="MOVIES",HBO SIGNATURE
-https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-name="304" tvg-id="Red.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499186_ico.png" group-title="MOVIES",Red By HBO
-https://raw.githubusercontent.com/angahjee1994/tv/master/red.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-name="304" tvg-id="CNX.Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="MOVIES",CINEMAX
-https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox.jpg" group-title="MOVIES", FOX
-https://delivery.macan.tv/stream/id_fox/playlist.m3u8?token=rvsx2&v=20200807 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_crime.png" group-title="MOVIES", FOX Crime
-https://delivery.macan.tv/stream/id_foxcrime/playlist.m3u8?token=rvsx2&v=20200807 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_life.png" group-title="MOVIES", FOX Life
-https://delivery.macan.tv/stream/id_foxlife/playlist.m3u8?token=rvsx2&v=20200807 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_movies_premium.png" group-title="MOVIES", FOX Movies Premium
-https://delivery.macan.tv/stream/id_foxmoviespremium/playlist.m3u8?token=rvsx2&v=20200807 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_action_movies.png" group-title="MOVIES", FOX Action Movies
-https://delivery.macan.tv/stream/id_foxactionmovies/playlist.m3u8?token=rvsx2&v=20200807
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png" group-title="MOVIES", FOX Family Movie
-https://delivery.macan.tv/stream/foxfamilymovies_idn/playlist.m3u8?token=rvsx2&v=20200807 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo.png" group-title="MOVIES", HBO
-https://delivery.macan.tv/stream/hbo/playlist.m3u8?token=rvsx2&v=20200807 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_family.png" group-title="MOVIES", HBO Family
-https://delivery.macan.tv/stream/hbo_family/playlist.m3u8?token=rvsx2&v=20200807 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_hits.png" group-title="MOVIES", HBO Hits
-https://delivery.macan.tv/stream/hbo_hits/playlist.m3u8?token=rvsx2&v=20200807 
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo_signature.png" group-title="MOVIES", HBO Signature
-https://delivery.macan.tv/stream/hbo_signature/playlist.m3u8?token=rvsx2&v=20200807 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/red_hbo.png" group-title="MOVIES", RED by HBO
-https://delivery.macan.tv/stream/redhbo/playlist.m3u8?token=rvsx2&v=20200807 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/cinemaxa.png" group-title="MOVIES", Cinemax by HBO
-https://delivery.macan.tv/stream/cinemax/playlist.m3u8?token=rvsx2&v=20200807
-
-
-
-
-//ASTRO
-
-#EXTINF:-1, group-title="KIDS", ASTRO CHINESE
-http://vp2p2s.my6868.cc/20401/ottoaplikasi.m3u8
-
-#EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
-http://vp2p2s.my6868.cc/20402/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="TV2" tvg-id="TV2" group-title="MY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-http://vp2p2s.my6868.cc/20403/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="TV3" tvg-id="TV3" group-title="MY" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/tv3.png", TV3 
-http://vp2p2s.my6868.cc/20404/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="ntv7" tvg-id="NTV7" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" tvg-chno="4" channel-id="4" group-title="MY", NTV7
-http://vp2p2s.my6868.cc/20405/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="8tv" tvg-id="8TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" tvg-chno="5" channel-id="5" group-title="MY", 8TV
-http://vp2p2s.my6868.cc/20406/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="tv9" tvg-id="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" tvg-chno="6" channel-id="6" group-title="MY", TV9
-http://vp2p2s.my6868.cc/20407/ottoaplikasi.m3u8
-#EXTINF:-1,   group-title="MY", ASTRO CHINESE
-http://vp2p2s.my6868.cc/20408/ottoaplikasi.m3u8
-#EXTINF:-1,   group-title="MY", ASTRO CHINESE
-http://vp2p2s.my6868.cc/20409/ottoaplikasi.m3u8
-#EXTINF:-1,   group-title="MY", ASTRO CHINESE
-http://vp2p2s.my6868.cc/20411/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="Go Shop 118" tvg-id="Go Shop 118" group-title="MY" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg", ASTRO GO SHOP
-http://vp2p2s.my6868.cc/20412/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="Go Shop 118" tvg-id="Go Shop 118" group-title="MY" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg", ASTRO GO SHOP
-http://vp2p2s.my6868.cc/20413/ottoaplikasi.m3u8
-
-//SPORT
-
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS", ASTRO SUPERSPORT 1
-http://vp2p2s.my6868.cc/20414/ottoaplikasi.m3u8
-
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS", ASTRO SUPERSPORT 2
-http://vp2p2s.my6868.cc/20415/ottoaplikasi.m3u8
-
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS",ASTRO SUPERSPORT 3
-http://vp2p2s.my6868.cc/20416/ottoaplikasi.m3u8
-
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS",ASTRO SUPERSPORT 4
-http://vp2p2s.my6868.cc/20417/ottoaplikasi.m3u8
-
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/arena.png" group-title="SPORTS", ASTRO ARENA
-http://vp2p2s.my6868.cc/20422/ottoaplikasi.m3u8
-
-
-
-
-
-//ASTRO & MY
-
-#EXTINF:-1 xmltv-id="Astro AEC HD" tvg-id="Astro AEC HD" group-title="ASTRO" tvg-logo="https://logodix.com/logo/2120508.png", ASTRO AEC
-http://vp2p2s.my6868.cc/20418/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="ASTRO AOD" tvg-id="ASTRO AOD" group-title="ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
-http://vp2p2s.my6868.cc/20419/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="BOO HD" tvg-id="BOO HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", ASTRO BOO
-http://vp2p2s.my6868.cc/20420/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ria.png" group-title="ASTRO", ASTRO RIA
-http://vp2p2s.my6868.cc/20421/ottoaplikasi.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="ASTRO", DRAMA SANGAT
-http://vp2p2s.my6868.cc/20423/ottoaplikasi.m3u8
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="ASTRO", ASTRO WARNA
-http://vp2p2s.my6868.cc/20424/ottoaplikasi.m3u8
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ASTRO", ASTRO CITRA
-http://vp2p2s.my6868.cc/20425/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="Go Shop 118" tvg-id="Go Shop 118" group-title="ASTRO" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg", ASTRO GO SHOP
-http://vp2p2s.my6868.cc/20426/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png" group-title="SG", VASANTHAM
-http://vp2p2s.my6868.cc/20490/ottoaplikasi.m3u8
-#EXTINF:-1, tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" group-title="ASTRO", AL HIJRAH
-http://vp2p2s.my6868.cc/20491/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="SG", SURIA
-http://vp2p2s.my6868.cc/20492/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="KIDS", ASTRO CERIA
-http://vp2p2s.my6868.cc/20494/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/astro%20cricket.png" group-title="SPORTS", ASTRO CRICKET
-http://vp2p2s.my6868.cc/20470/ottoaplikasi.m3u8
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ASTRO", ASTRO OASIS
-http://vp2p2s.my6868.cc/20471/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-id=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png" group-title="KIDS", NICKELODEON
-http://vp2p2s.my6868.cc/20472/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="ASTRO", ASTRO NAURA
-http://vp2p2s.my6868.cc/20474/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="ONE HD" tvg-id="ONE HD" group-title="MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", ONE
-http://vp2p2s.my6868.cc/20475/ottoaplikasi.m3u8
-#EXTINF:-1 xmltv-id="rtms" tvg-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="SPORTS", RTM SPORT
-http://vp2p2s.my6868.cc/20476/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/prima.png" group-title="ASTRO", ASTRO PRIMA
-http://vp2p2s.my6868.cc/20477/ottoaplikasi.m3u8
-#EXTINF:-1,  tvg-logo="https://dwglogo.com/wp-content/uploads/2019/02/1600px_IQiyi_logo.png",  group-title="ASTRO", IQIYI
-http://vp2p2s.my6868.cc/20469/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="MY", HELLO
-http://vp2p2s.my6868.cc/20468/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="ASTRO", ASTRO AWANI
-http://vp2p2s.my6868.cc/20467/ottoaplikasi.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/a0/f4/9d/a0f49d3ffe1e062c1261f2e2358c6bf0.jpg" group-title="KIDS",DISNEY JR
-http://vp2p2s.my6868.cc/20395/ottoaplikasi.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="MY",RTM OKEY
-http://vp2p2s.my6868.cc/20394/ottoaplikasi.m3u8
-#EXTINF:-1  tvg-logo="https://www.bernama.com/bm/img/bernama.png", group-title="NEWS",BERNAMA
-http://vp2p2s.my6868.cc/20399/ottoaplikasi.m3u8
-#EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/s640/celestial%2Bclassic%2Bmovies.jpeg" group-title="MOVIES",CCM
-http://vp2p2s.my6868.cc/20396/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png" group-title="MOVIES", FOX Family Movie
-http://vp2p2s.my6868.cc/50003/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox_family_movies.png" group-title="MOVIES", FOX Family Movie
-http://vp2p2s.my6868.cc/50004/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/fox.jpg" group-title="MOVIES", FOX
-http://vp2p2s.my6868.cc/50005/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.macan.tv/img/hbo.png" group-title="MOVIES", HBO
-http://vp2p2s.my6868.cc/50006/ottoaplikasi.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="DISC", HISTORY
-http://vp2p2s.my6868.cc/50041/ottoaplikasi.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1280px-2019_Discovery_logo.svg.png" group-title="DISC", DISCOVERY
-http://vp2p2s.my6868.cc/50043/ottoaplikasi.m3u8
-
-//VOD
-
 
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/503.jpg" group-title="OTTO MOVIES",MULAN (2020)
 http://admin.nf21.net/go/files/17052
@@ -766,48 +359,46 @@ https://www.googleapis.com/drive/v3/files/1EKH3FAOHQ5cxxHBsRqJXGUayZCv-UALz?alt=
 https://www.googleapis.com/drive/v3/files/1qEt5nb2vX20H3sEyLxqefOpaPf6l7MB6?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
 
  
-#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/z3pmETBdWQNxjQADaobGUFxyluh-150x225.jpg" group-title="VOD MOVIE INDO",Hunter in the Blue Side of Manchester (2020)
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/z3pmETBdWQNxjQADaobGUFxyluh-150x225.jpg" group-title="OTTO MOVIES",Hunter in the Blue Side of Manchester (2020)
 https://860718902.tapecontent.net/radosgw/bGwJrB8jdeHRep/E-goQGNCtqI6CyK8uZSvDmhmhvVe4vR73SRH2FYdXqV3xDCdjG0oafjoUvb2fVhHo4p-nSrGfDS4UmwyuQ8YISA7VRqc44QVMzGeJRHGJ0cXlpWY_d8_0ASQB-Lhq5A3j55XCrrDv4EMMdVGeQOEmApBAcB4DkDqhO5s_kGXIGOwenqiPNsHScwLKAQAj8bXCFFwDeOZvmf_tChzJqKmNcCvCRMnL-K6-eitsRP-sSHgLpVYrseIoADdLrjfSf1kMwUrAux4awAVDO2BQ_vQ9aDRW5ACUiKL0Hm8F1qg1QfwP9FLCbu_6Wu8LXYLt77XmClG8pBN4hSHscNo/driveid-113530-terbit21-com-hunter-in-the-blue-side-of-manchester-2020.mp4?stream=1
-#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/10QvfyxcLW0sGtbZSJXFkF4nOAt-150x225.jpg" group-title="VOD MOVIE INDO",Humba Dreams (2019)
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/10QvfyxcLW0sGtbZSJXFkF4nOAt-150x225.jpg" group-title="OTTO MOVIES",Humba Dreams (2019)
 https://908374512.tapecontent.net/radosgw/3We8w2j7QrudkqA/qRHmOknpYfTAPuuRzaD02x908GJS_O8nt6QbOne7CMDLqyy3sTwz_mPVNHk8ZkKPeFrYA9hM3VpuG6-41qziGEwFbu2yhvB6Ph1tlnAelOvxPDsm4Nt-t9R9OoryE5B-6-2a_mt-mOFIrt5LllwVTYDQOb6hJaS3yZeukqRBce9kAq9SdPO3SlaEEYM9ZeROKU6KsaWWHDg-Ea7Bxc623BrCtnsoSO9SCCdGRW-hJ2CAB57g5ud9F39K23iSBuC_U8soVNA6cw9bn_assCj6GAaM5lGcI2-qUDNaepzoD4K8ew6TH9HP4IeASBg/driveid-113467-terbit21-com-humba-dreams-2019.mp4?stream=1
-#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/jyGErEBDF3nX6cXAEqovYfS6XGM-150x225.jpg" group-title="VOD MOVIE INDO",7 Hari Menembus Waktu (2015)
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/jyGErEBDF3nX6cXAEqovYfS6XGM-150x225.jpg" group-title="OTTO MOVIES",7 Hari Menembus Waktu (2015)
 https://2448396291.tapecontent.net/radosgw/9vb6YJrwV6Ua32m/YerBjfPOTKINjmB8BKfUbPZumpMMmY1zXtodGuFNtJ4p0jPKSqvwksUCx08RZOHWvfU-1ZUEmiZJU6aCYBaF5q8RyuMARcN5Cn40NcKyX4PVmmxl3TzyOSfYW45GNqTuulFZGwfSNsGz13lD2DnEeCS0uv6HjcOMQURzLniNOVxC_-jkNNriT5sIv2L85X-uZWyn91BmEZTFi_tipOl7hLaQAFCuYqZf-mD84v36kUMZHmjmslf9q7emqdn3tqUXoKxqInrFEnVSeGnOtUB04EjVXoyEQ0-TV8o6o-0UqZ942B4OOnxWc3erVns/driveid-113403-terbit21-com-7-hari-menembus-waktu-2015.mp4?stream=1
-#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/2RYBxVyViYQzZxB2IOzk8o1e8XK-150x225.jpg" group-title="VOD MOVIE INDO",Jeritan Malam (2019)
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/11/2RYBxVyViYQzZxB2IOzk8o1e8XK-150x225.jpg" group-title="OTTO MOVIES",Jeritan Malam (2019)
 https://908357361.tapecontent.net/radosgw/ll42BQkLMmC703W/XeyOpqSS-1rmfIIQgi38zrmKun1HFfAwE4kiS4AOVvQjXvJl20RaECmmI10n8sgWFn2jFxoqSb3gfZpUPB7R8Qn3mj6_8aA081KeV3dxdNpddYZ2F0Hv0XASJHNFOsczPsiPlOOtT_B-LAkmYPPy0ic_QaqXibwEMjipoJVGnBDFy5vKhCta2GCuq3QKoImgD0PHesLjid0V5Ltc-tP46g6HAJzw0SEcuvF6OjmLe_EbnI11RBmrH0lELtg9eHiWJe3mMO2R0ZC7XraHUNHtQQaITBp7S5Yn3FJ356jdFRG8BxSu7xF82ti9hzU/driveid-113372-terbit21-com-jeritan-malam-2019.mp4?stream=1
-#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/9BYferAWg8ItfhxFGKi3QXrRzO0-150x225.jpg" group-title="VOD MOVIE INDO",Satu Suro (2019)
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2020/12/9BYferAWg8ItfhxFGKi3QXrRzO0-150x225.jpg" group-title="OTTO MOVIES",Satu Suro (2019)
 https://860718944.tapecontent.net/radosgw/OX2o41mAYyt9ro/C9F_1l4iIDlkGcQhID7UIwPeuvbyrsln3OmUrU10yNeNcEfZIdHChsGObljEJd3qYITeJtJ0G4sKJ83SPBIWzWeKfDbHT5qkXBTod8DZREGvnMqRLmJrV7rqjUr3vI0fcFcJmQtGv1ZeErTicxrobXuC_b9pmiKv_mYIsDnuyWTB-VgDTG7V-5Tnl_yb8wbfy5OetrBk8SbaMLPFRwQW0hlnBPu_uoNQk4KQdsdoWx2QISWeZfRqCIbRMzYwj2plTCGmYhivJn7cCxOOy3R30TA6qmq4Sozs6wLdM96idJQLv0niXfmhnK64qw4/driveid-112714-terbit21-com-satu-suro-2019.mp4?stream=1
-#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/mYjhuSqeNQCNSoUHA7BLL95eK9J-150x225.jpg" group-title="VOD MOVIE INDO",Ayat-Ayat Cinta 2 (2017)
+#EXTINF:-1 tvg-logo="http://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/mYjhuSqeNQCNSoUHA7BLL95eK9J-150x225.jpg" group-title="OTTO MOVIES",Ayat-Ayat Cinta 2 (2017)
 https://908357218.tapecontent.net/radosgw/7jP4L2pbqlTJyW/K511TAmqHbAmHOTyQz2gmF9mXQr7ZvdsJHR_Ugwvqeb7T2T4JsbtWhs1mksun0Z4ZlvP61h6HfPm_gaHveDXIlmim7iYv7zyinlsp3u10VaJu0RFJVHHWdpechXuhPCPg9tia7q_zIbdRBy0q3LxE-DCDnDO9YXJoPJpkpghi1nKVhm8EmsPLV92hC_GsgYiMJ_YdQAgY8uqsrS-o2OHPE98fUATrG4x8ZY4dYqbJHWmffInjU6yKumqs3vFS_HTU2l46Svyl8IayeTt7lo1E71-i1pgY-3kQdSWFinYdKNuWWhCzIeCyuWc3jQ/driveid-111950-terbit21-com-ayat-ayat-cinta-2-2017.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/3igL8UbIBCaU5bshOm7GUzdZIiK-150x225.jpg" group-title="VOD MOVIE INDO",Surga yang Tak Dirindukan (2015)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/3igL8UbIBCaU5bshOm7GUzdZIiK-150x225.jpg" group-title="OTTO MOVIES",Surga yang Tak Dirindukan (2015)
 https://861520049.tapecontent.net/radosgw/D27OGMJRR6tko8Z/xJGPObsexaQbTAMPcaxc_CajUYqGFl_jvJfgg60mj-nYTepWLtc6W7vCw3eoi0jIqjsW9Y38FSlGZ2hLFwq3tKVxAUsSHGTznvX9yCFRQybns2XHkVK1-X0rXz5WjrXOCWmjYf5TE4HIhTu2QeImmubbw8qy-5r2k368pN0vxe6W4_35fA-E2xbLU4XBVJ39Rt9zpxjcgovu_9Uzp1UykBmaUKCRPdISqSvs-xsKC-kin8nYq1qaZvzdGoA96dg_UrVbQKdTgWX4wi3kiUZSh74j7Pb7isr-I-c8b_96xhLiUcGZ1FJ_9aisiQA/driveid-111675-terbit21-com-surga-yang-tak-dirindukan-2015.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/10/kpnpjvcRxZkqopOhv34YF0Bx5UX-150x225.jpg" group-title="VOD MOVIE INDO",This Earth of Mankind (2019)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/10/kpnpjvcRxZkqopOhv34YF0Bx5UX-150x225.jpg" group-title="OTTO MOVIES",This Earth of Mankind (2019)
 https://2475155089.tapecontent.net/radosgw/JpgZQlXymLhGdb/zxhItmsCInAFtuLT6xqsY8ZcFRDbRFsMhrL1Ni7UFVeciDet5Z-djL-mJvIKhr73DDC2iuKvYHZbSpoyazzpT0vXiYedIZwnr_0sIXy2xABLGdr_i01wXnKRH3r_XCm_dBb4TVbfLrFuEqYMiXb0bDJHtXvdD3TYyxQnRK0jCKqNVK7PIOtGWs1gPGOOW7j0enQs3BOX9rIEFBWYkVQob-Tg-mSQtN8cRvVe037sDQhqf-HpYMZrBWdwtC-qrTSXGuuHaT4ri7YvI6jhKXb2vVSENkz5qXs1u1pV9K4681zNemI59FNLPGzF7Y8/driveid-111402-terbit21-com-this-earth-of-mankind-2019.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/10/lXkLmOCpGaarMvQVkMNCDzfxIVq-150x225.jpg" group-title="VOD MOVIE INDO",Preman Pensiun: Kesempatan Kedua (2020)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/10/lXkLmOCpGaarMvQVkMNCDzfxIVq-150x225.jpg" group-title="OTTO MOVIES",Preman Pensiun: Kesempatan Kedua (2020)
 https://860718378.tapecontent.net/radosgw/l4kqyOb8xMhzPz/HmeNYMT1wrp_ASbU2HyUE9s30IOQBL_YTMnFfy13QBoRBZoQVMyo_I8rDB1a35AGVdXdFhTTHZYWZnG4eC_50PuNqjgl2cN_7yiPG8crTth-5hGV8rPr6N7BKvoZ09Bu7gFquKv4XaRUhkR8mZX-DAcXs_6oH--BUXTUoIjIG0683NFnr6CkS-C0kdxI49tTlpmK8molGoHCHZ8SORuoGZQCQJtskoQcv-ahzI_Nr-7HnhhNYENl4AsbKfilTlPElK0QDxR8H7-hFCBnqLJtMGCoOG75L0DvihTqvQhDMzxX-q0yNCl8eQ1byCE/driveid-111363-terbit21-com-preman-pensiun-kesempatan-kedua-2020.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/irQBiAtAAH14gIxUWsTuMAGJhmK-150x225.jpg" group-title="VOD MOVIE INDO",Sweet 20 (2017)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/irQBiAtAAH14gIxUWsTuMAGJhmK-150x225.jpg" group-title="OTTO MOVIES",Sweet 20 (2017)
 https://860718921.tapecontent.net/radosgw/apYYeP7o1Ghx3LV/d_YazkofjEYAoo0gFMH6PmJr0Jvt9VgEOVD6uZq33FmUQnTfL8dWAXmVnD06JpdEMtwDw8KpEKorN0rQqfPFE-9kKmyQCK_YQs_WPq7AB4SP7u7sUdKocKZj_v7rNHj5Fl6kngC_S3h-CZqwxlU3ZjjQvqou31Mqh-9hPG_uqsjQmX9oDheA0E9lY1zdmpBnV51A2pX59-5OqXEbUh7AOYxDZdeBhG_zo4BvxruPGmiwNID9sL4iLlQzbiTgKhQbBsgR8KdgPvhN5sQtYrG52HA76NTAs9LiMEeMs9LdNT7zbgRngaRjBe_2REw/driveid-111361-terbit21-com-sweet-20-2017.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/10/xJcwkUdF7O5LVTMCJab8abpRaUp-150x225.jpg" group-title="VOD MOVIE INDO",Kartini: Princess of Java (2017)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/10/xJcwkUdF7O5LVTMCJab8abpRaUp-150x225.jpg" group-title="OTTO MOVIES",Kartini: Princess of Java (2017)
 https://861628971.tapecontent.net/radosgw/YK94pvPp4lu2dd/piIwq3_LgacxICzdtqGlpKer37YMfc-W4ECf5dNcz3DprAMH5_OzQUuOD7Xra0_q4BRxNhqKlLb317DBAc2X3K0xySds0ZBV3Ad8fFevphK2M-4lTsSTrBLI0PylbzQLPV0f_S4lY0apEUgUwU7fr4pWQJhuPwCyrq-2XWJf69IV8JyEGPyib9D0UGrAThDsXaU99-6wy-3aMdqtISadQRnfn8bAl7FtDBCTl1-g_Yt5Z_AZqKLStIqnswd5dPT5txQ081BHU9dc6DLNK3x5kgFNEomg2QT7IEHrldE4MbTVwXl6_ow6lfKFdfQ/driveid-111356-terbit21-com-kartini-princess-of-java-2017.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/wRxpSCorVpPzBfnkO7LTnvJcC96-150x225.jpg" group-title="VOD MOVIE INDO",Merantau (2009)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/wRxpSCorVpPzBfnkO7LTnvJcC96-150x225.jpg" group-title="OTTO MOVIES",Merantau (2009)
 https://2448424566.tapecontent.net/radosgw/d3Q4qDMbXafZoo/WKU64m_frK5jRdazuNFzmrDAjou0UamkG1n4hbttp5gnRs_6XEylUM1MTKn24XGUjUmlUurnTgD4g4iophtYUhDTSBqDeRUrEgQ4n3Lpvksfwlp8AnQJLtAeGlIsLzgevGqHPQoJZV6GA--v_qZlx6wRuntPg_pS25y--wteGdbCuwk2ccn4Ff-GwpbKNqqkqNl2do-wzLqTYj0z8_v79UsMuRma2DCZr9ResHgAUrRB4nBkesknOVonxWOUooA4HwfaMeJlqaYGYZmf7YCFrrhyann2auQA7fAKK9NJgrUUDSKggfDFu5le9q8/driveid-108472-terbit21-com-merantau-2009.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/08/jIhXhSZeRJjbDwLJBUFFqQ6GDVJ-150x225.jpg" group-title="VOD MOVIE INDO",Guru-Guru Gokil (2020)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/08/jIhXhSZeRJjbDwLJBUFFqQ6GDVJ-150x225.jpg" group-title="OTTO MOVIES",Guru-Guru Gokil (2020)
 https://908357259.tapecontent.net/radosgw/LdOodrzdXoCv0y/_l0tMXRW462xnZ14mg1UG-_3e-J2F3anioAro0HFuQnLD-GZzdlnJE-_nngGIIf5qa3T-xkbyyxzFYOYQYXFwsvwOENgZwQlF2eP2jkrCPQ0jqJh6NDgiub1mOeTez0_0RQHFBhTog7qDq7Ik0FNRAfivBgWrtUw7vY8l2pOKZALqvxpECAYV8vHNkNJJalv5AmGzrv0gkvRH1wzjht4sQw5EJp4rxOaTZwd9C6eiYvUIt4zSo3ZuBMvWdsBqudzKziXE-klA5YOuE-ThpR0RcRODxcV__dCWKLQpEBRCddquenP_Btin8tkLnk/driveid-108897-terbit21-com-guru-guru-gokil-2020.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/07/fE4MtQqQR59oXLXSgZdt1vIp8O9-150x225.jpg" group-title="VOD MOVIE INDO",Nikah Yuk (2019)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/07/fE4MtQqQR59oXLXSgZdt1vIp8O9-150x225.jpg" group-title="OTTO MOVIES",Nikah Yuk (2019)
 https://861520851.tapecontent.net/radosgw/Oo4kA3wPwqhekO/wlw1C-ejZ_kAimfjZkR3ykiLgN86FgS2YS1y9jREkDlHyb5dekhhRwKTI4_GsJ-_KRM7lhMJF-DoLkb1wHct4clTvLsyICwKjxtwvRAXRFw1_6OURoN6mrjSb1EakWineufjWopkMwSjJHAm6h6-oEvoMmHyT4-I_0PtTKPVj7aiXkkkPAfGN_X3bcRBQGWo26pEdgXIANKb6B9exTQbut-WvdHrKfCTb-nT8VNzd8g1hKAjsGXNtwPLIDumhBxdZ8pjQu4iVItN2xEm9Wuw19a6TtSD3LJJopCAeExcIfCMHkfEiTFKDJZqCOE/driveid-107337-terbit21-com-nikah-yuk-2019.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/07/5C18wEMckq0oAPUmotD6qg2y1cg-150x225.jpg" group-title="VOD MOVIE INDO",Dignitate (2020)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/07/5C18wEMckq0oAPUmotD6qg2y1cg-150x225.jpg" group-title="OTTO MOVIES",Dignitate (2020)
 https://908471558.tapecontent.net/radosgw/oL0JQMMVwwI9xr/M1F4x6PllGw4P8QD7vHZoPcr3NFYc9UYWgkJdcvoG1bMTJYL6vnFXfdwm8gsFDAH8_Zjbp_mkWMixn7x8R79-fYbuLV0AXs_-QeDPlo-gLYPWA1AHgDSb9DO-tdU1KMSvJ4OJ5hVHfoR8DyBF086yiywYy3UM8wvjI1XnHNgZe6D2tWzjoZHFf43Nl2pnUTfg3NztWZAiEoGWiTuNHPblwFXqh_nbpil-DVkmQFKiRf6qLV9QC3SsA_oiwcBMGyJE0BvMlFsZLFKpdU7CaHZxQeirE3p6SB-qgMJyJ67J68Rim3dnyxcE_fqhps/driveid-107336-terbit21-com-dignitate-2020.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/dwPRDiUAvoQmETTfWxNFXhs7IpY-150x225.jpg" group-title="VOD MOVIE INDO",Headshot (2016)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/12/dwPRDiUAvoQmETTfWxNFXhs7IpY-150x225.jpg" group-title="OTTO MOVIES",Headshot (2016)
 https://867323792.tapecontent.net/radosgw/Xgm1wjjp1ysAQm/J5jS-qfpqjhnehfAiIrE5G-BELqON_puIyOAZ_74isbO0AcHxN--1uZKwyOHGACjSfslB-XeriPq_5j2WDrTouep9tLp9gzHOuYA-S7tm_NRVVLcilSH_doeA9GTyTdY20qdcauIRDaEt4WmAGs4M0AWMHnh4p0Hx6TravKeiMs7ixHUfW6GYekKxDwtpUjfpzb9vTDGoHn507pEZ3zw3pDAueL6Q7xLcS4GIwI0ryCll57oFczsPbfBGTLpC74nIdw9dUZ7Ko0-PI6EJTCgtwWBQFKr0GQm712DHd0_Z7M_-pkTRaA1G79yuZc/driveid-106320-terbit21-com-headshot-2016.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/01/310AoB3CiwnK0l68lDsJP0w4ZUY-150x225.jpg" group-title="VOD MOVIE INDO",Lagi-lagi Ateng (2019)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/01/310AoB3CiwnK0l68lDsJP0w4ZUY-150x225.jpg" group-title="OTTO MOVIES",Lagi-lagi Ateng (2019)
 https://858142519.tapecontent.net/radosgw/L11ebX2GBwURmPk/0Gr397RwQ1nBbHjdFvQoCxxYagx1CgkybrmbyFFS_eTfLFngGnIJlP00hEHhp2vJmaQbW1bSrE2P6mPwkK-jZ7iPM6BLm99z9lRNRNOVZP6qVkcJoMwNQTHh2KWo6v5hGBkcMn-zSJAUYwTw7_6OI5qoznxdL_fTWzt-FbsaL_CzM0Dgt6GIDwRhpLuQ-8sz99DGfVot5-07qLT671wlvZog2HpJD2uwS242vbyj-qOMyQ9IYjYjMzYC6JJesBUyalhM1vQqf2h4Emjh5oPjcWCBCv9FgJaVGMZF5QYi8byirToIOxoZEdoKD9w/driveid-100321-terbit21-com-lagi-lagi-ateng-2019.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2019/07/2Makktg15hCXNv4TZMJjPMBz1BZ-150x225.jpg" group-title="VOD MOVIE INDO",Titisan Dewi Ular (1990)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2019/07/2Makktg15hCXNv4TZMJjPMBz1BZ-150x225.jpg" group-title="OTTO MOVIES",Titisan Dewi Ular (1990)
 https://2760157150.tapecontent.net/radosgw/1JDJrYobP7ixDb/pKxLtRDsUO4WKCLGlTzylOqeJGucbiWa2hec-M7O4R9PFRHJN-M2Yocwhl0BLGjeCx-wfQeh1gBzG3gRvmXmAKwGy8TqSO6mGPDm1g5eYC4VBcmD-2Cp6iIdYYI-4U84wxQtSDa6zB_uN8_QsQmOgOca2VdnBDGxLOTZG8Tv9wrcEso6R8c_cOxSJ9khaWOgIx2vZdJ8gfeFf01poxGkAw5CC3QCKwDu3kdcTlRPi9fNtwl1-tF6wS_i3skMJusHg7QA40V-9oR9bEGqOl7YiUfwIcNhzWwslw0P3YwpeqiEtrEc-9adHcINLVA/fileid-182138-terbit21-com-titisan-dewi-ular-1990.mp4?stream=1
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/06/film-cicak-man-2-planet-hitam-2008-150x225.jpg" group-title="VOD MOVIE MALAY",Cicak-Man 2: Planet Hitam (2008)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2018/06/film-cicak-man-2-planet-hitam-2008-150x225.jpg" group-title="OTTO MOVIES",Cicak-Man 2: Planet Hitam (2008)
 https://858141720.tapecontent.net/radosgw/lx2xbkmoPDC7yxa/oRuaJSfmX1kJ3kfNye0Hs5Y0m3SfmoMcbuEBIu0ya5keIev70QI1cVcjRJ9z1Hw67CPzFWvfkvGqyB361L5wqmoJeWISoMC7v7GawfjIuSOKdZg8a-IwRpOrMbCl_PddfPrjAwzXLa0V6jii997sbdc07CHtYFGUlV7p32vnX6RXLwOaOt51TxB2mJb6rF5cvTqbGbuB965v8_j2fC9jVV6PnRPoccarx5c-WxNFPnKmbdHoghsTAuZgZXOygTJ8E9imN8znexTaG8kiDjx0UsfnoGiOP7p_54kt4tujufst4NZAFbbaBw8wmpI/driveid-115808-terbit21-com-cicak-man-2-planet-hitam-2008.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/02/l89W077xUEsDakVEWkwkwW8IEX5-150x225.jpg" group-title="VOD MOVIE MALAY",Wira (2019)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2020/02/l89W077xUEsDakVEWkwkwW8IEX5-150x225.jpg" group-title="OTTO MOVIES",Wira (2019)
 https://861520051.tapecontent.net/radosgw/mQdRYr2YKmibgwg/1fN1Zq_t33AuCLkK8bYaRw_zUtWrBxtONaXws-18kNRwKZY2ERGPCYr6HmxP_RlX6dt6P2NMENRqIlhQrZHwyS1KRE1juLfgcuFG8K0MSo6A7Iex7ou5aClpETRBNTgtorELe06BX5NRFS_G0GX3R4rWbS4KCREVIb_RMXStXSmGQyggoJZfKhbkSvrxf_1rKEVkPnh08rVhB5NRR4FzQCbZnNwCs0_UBGdOeqpG7Gjet7YCnKBSj57AXUk5n-FyJScfBeFUj9Vi6_-k7Jn39WbgF2d8NIiW7r-FOA/driveid-100566-terbit21-com-wira-2019.mp4?stream=1
-#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2019/11/vNz7OoY5STI0J9AJvtwB8IZst5i-150x225.jpg" group-title="VOD MOVIE MALAY",Sangkar (2019)
+#EXTINF:-1 tvg-logo="https://i1.wp.com/terbit21.com/wp-content/uploads/2019/11/vNz7OoY5STI0J9AJvtwB8IZst5i-150x225.jpg" group-title="OTTO MOVIES",Sangkar (2019)
 https://861481692.tapecontent.net/radosgw/L1WPGDA4XkF6j4/YpL_YpWxyJj_gCA7lBq3PjHShxSEd8_4fGXjI-KKD9a3MB7uUYruX9sQvfXwUApC1hvrH7XgAtbEcYpiE_JYMiYLG8iZLZ_Dlgs-n2bOW870XuWdHWJUmNXbwgPi40cjXGEhr_dYNxS_4HI-8nXFfoLFHi_xQitX0K03sciVplkOr3gP5WwpXmAdJkU4tENGSECRdzhMDJIPF8_zB-lUZUNhJfggTRq2-LY0y18p_zmiYSG_UHQBsHAJfJj6DzmE_bYfgJ4mCyptvMN5d75132Ww-ztpGwyP4YFAP-4bIs7RyiI8pxciiVF-zg8/fileid-210459-terbit21-com-sangkar-2019.mp4?stream=1
-
-
