@@ -527,9 +527,9 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="Kids",CBeebies
 http://51.52.156.22:8888/http/003
-#EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Family",Nick
+#EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Knowledge",Nick
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Family",Nick Jr
+#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Knowledge",Nick Jr
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="Kids",Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
@@ -544,45 +544,45 @@ https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Toku.US" tvg-logo="https://i0.wp.com/tokusatsunetwork.com/wp-content/uploads/2020/03/tsu-e1584362198575.png" group-title="Kids",TokuSHOUTsu
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=848&deviceId=5c3f8f12a93c2d61b9990a4e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Family",Asian Food Network
+#EXTINF:-1 tvg-id="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" group-title="Knowledge",Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Family",Animal Planet
+#EXTINF:-1 tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" group-title="Knowledge",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Family",BBC Earth
+#EXTINF:-1 tvg-id="BBE.UK" tvg-logo="https://static.epg.best/kr/BBCEarth.kr.png" group-title="Knowledge",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="Family",Crime + Investigation
+#EXTINF:-1 tvg-id="CIA.MY" tvg-logo="https://static.epg.best/id/CrimeInvestigation.id.png" group-title="Knowledge",Crime + Investigation
 http://203.154.243.31:15001
-#EXTINF:-1 tvg-id="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="Family",Classic Arts Showcase
+#EXTINF:-1 tvg-id="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="Knowledge",Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-#EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="Family",Comedy Central
+#EXTINF:-1 tvg-id="COM.US" tvg-logo="https://static.epg.best/il/ComedyCentral.il.png" group-title="Knowledge",Comedy Central
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="CGD.News" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="Family",CGTN Documentary
+#EXTINF:-1 tvg-id="CGD.News" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="Knowledge",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Family",Discovery
+#EXTINF:-1 tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" group-title="Knowledge",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Family",Discovery Asia
+#EXTINF:-1 tvg-id="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Knowledge",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Family",History
+#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Knowledge",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-#EXTINF:-1 tvg-id="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="Family",Food Network
+#EXTINF:-1 tvg-id="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="Knowledge",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
-#EXTINF:-1 tvg-id="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Family",Outdoor Channel
+#EXTINF:-1 tvg-id="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Knowledge",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Family",National Geographic
+#EXTINF:-1 tvg-id="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Knowledge",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Family",Nat Geo Wild
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Knowledge",Nat Geo Wild
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
-#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="Family",Nat Geo People
+#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="Knowledge",Nat Geo People
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
-#EXTINF:-1 tvg-id="SBF.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png" group-title="Family",SBS Food
+#EXTINF:-1 tvg-id="SBF.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png" group-title="Knowledge",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
-#EXTINF:-1 tvg-id="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="Family",KIX
+#EXTINF:-1 tvg-id="Kix.Asia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png" group-title="Knowledge",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="SUN.SA" tvg-logo="https://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="عربى",Makkah TV
@@ -690,7 +690,7 @@ http://163.172.29.246:8081/globalbd/atnbangla/chunks.m3u8
 http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="CT1.BD" tvg-logo="http://jio-tv.com/uploads/tv_image/channel-t1.png" group-title="Hindustan(বাংলা)",Channel T1
 http://128.199.212.160/channelt1/1080/index.m3u8
-#EXTINF:-1 tvg-id="E10.BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title=""Hindustan(বাংলা)",Enter 10 আনন্দ
+#EXTINF:-1 tvg-id="E10.BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title="Hindustan(বাংলা)",Enter 10 আনন্দ
 http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBanglaCinema.in.png" group-title="Hindustan(বাংলা)",Zee বাংলা সিনেমা
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
@@ -716,7 +716,7 @@ https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZZP.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="Hindustan(ਪੰਜਾਬੀ)", Zee Punjabi
 http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title=Hindustan(മലയാളം)",Asianet
+#EXTINF:-1 tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title="Hindustan(മലയാളം)",Asianet
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="Hindustan",Asianet News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
@@ -842,52 +842,52 @@ https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
 #EXTINF:-1 tvg-id="KLA.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/be/KTLA5.png" group-title="Best of USA",KTLA 5
 https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
 
-#EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="Asian TV",ททบ 5
+#EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="Asia Channel",ททบ 5
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
-#EXTINF:-1 tvg-id="NBT.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png" group-title="Asian TV",NBT 2
+#EXTINF:-1 tvg-id="NBT.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png" group-title="Asia Channel",NBT 2
 http://203.154.243.31:23040
-#EXTINF:-1 tvg-id="TPB.TH" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/thai-pbs-png-6.png" group-title="Asian TV",Thai PBS 3
+#EXTINF:-1 tvg-id="TPB.TH" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/thai-pbs-png-6.png" group-title="Asia Channel",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="ALT4.TH" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png" group-title="Asian TV",ALTV4
+#EXTINF:-1 tvg-id="ALT4.TH" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png" group-title="Asia Channel",ALTV4
 https://iptv36.my.to/altv.m3u8
-#EXTINF:-1 tvg-id="TPT.TH" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="Asian TV",TPTV
+#EXTINF:-1 tvg-id="TPT.TH" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="Asia Channel",TPTV
 https://www.livedoomovie.com/02_TPTV_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TNN.TH" tvg-logo="https://cms.dmpcdn.com/contentowner/2019/03/06/d7f12a36-50e5-4ffe-82ca-91fcf99e4ced.png" group-title="Asian TV",TNN16
+#EXTINF:-1 tvg-id="TNN.TH" tvg-logo="https://cms.dmpcdn.com/contentowner/2019/03/06/d7f12a36-50e5-4ffe-82ca-91fcf99e4ced.png" group-title="Asia Channel",TNN16
 https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-#EXTINF:-1 tvg-id="NEW.TH" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" group-title="Asian TV",New18
+#EXTINF:-1 tvg-id="NEW.TH" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" group-title="Asia Channel",New18
 https://exodiver.github.io/IPTV/M3U8/Token/TH/NEW18.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png" group-title="Asian TV",Voice TV
+#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png" group-title="Asia Channel",Voice TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
-#EXTINF:-1 tvg-id="NAT.TH" tvg-logo="https://resource.nationtv.tv/assets/images-v5/logo-nationtv.png" group-title="Asian TV",Nation TV
+#EXTINF:-1 tvg-id="NAT.TH" tvg-logo="https://resource.nationtv.tv/assets/images-v5/logo-nationtv.png" group-title="Asia Channel",Nation TV
 https://cdn6.goprimetime.info/feed/chnation/index.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Asian TV",Workpoint
+#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Asia Channel",Workpoint
 https://exodiver.github.io/M3U8/Token/TH/WPTV.m3u8
-#EXTINF:-1 tvg-id="GMM.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="Asian TV",GMM 25
+#EXTINF:-1 tvg-id="GMM.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="Asia Channel",GMM 25
 https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
-#EXTINF:-1 tvg-id="TV8.TH" tvg-logo="https://www.thaich8.com/assets/images/ch8-log-23092019.png" group-title="Asian TV",ช่อง 8
+#EXTINF:-1 tvg-id="TV8.TH" tvg-logo="https://www.thaich8.com/assets/images/ch8-log-23092019.png" group-title="Asia Channel",ช่อง 8
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-#EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png" group-title="Asian TV",Mono 29
+#EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://mono29.com/app/themes/mono29-2017/assets/images/LOGO.png" group-title="Asia Channel",Mono 29
 https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
-#EXTINF:-1 tvg-id="MCO.TH" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="Asian TV",MCOT
+#EXTINF:-1 tvg-id="MCO.TH" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="Asia Channel",MCOT
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist_w534518664_b3000000.m3u8
-#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.one31.net/theme/images/logo-one31.png" group-title="Asian TV",ONE 31
+#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.one31.net/theme/images/logo-one31.png" group-title="Asia Channel",ONE 31
 http://203.154.243.31:23005
-#EXTINF:-1 tvg-id="TRA.TH" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Asian TV",Thairath TV
+#EXTINF:-1 tvg-id="TRA.TH" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Asia Channel",Thairath TV
 https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
-#EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Asian TV",ดูทีวีสีช่อง 3
+#EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Asia Channel",ดูทีวีสีช่อง 3
 http://36.37.252.114:888/Apple/OneTV-036/playlist.m3u8
-#EXTINF:-1 tvg-id="PPT.TH" tvg-logo="https://static.epg.best/th/PPTV.th.png" group-title="Asian TV",PPTV
+#EXTINF:-1 tvg-id="PPT.TH" tvg-logo="https://static.epg.best/th/PPTV.th.png" group-title="Asia Channel",PPTV
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Asian TV",ช่อง 7
+#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Asia Channel",ช่อง 7
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
-#EXTINF:-1 tvg-id="AMA.TH" tvg-logo="https://www.amarintv.com/assets/images/logo.png" group-title="Asian TV",Amarin TV
+#EXTINF:-1 tvg-id="AMA.TH" tvg-logo="https://www.amarintv.com/assets/images/logo.png" group-title="Asia Channel",Amarin TV
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-id="T4U.TH" tvg-logo="https://static.epg.best/th/true4U.th.png" group-title="Asian TV",True4U
+#EXTINF:-1 tvg-id="T4U.TH" tvg-logo="https://static.epg.best/th/true4U.th.png" group-title="Asia Channel",True4U
 http://183.182.100.184/live/true4u/chunklist.m3u8
 
 //ASTRO
 
-#EXTINF:-1, group-title="KIDS", ASTRO CHINESE
+#EXTINF:-1, group-title="Kids", ASTRO CHINESE
 http://vp2p2s.my6868.cc/20401/index.m3u8
 
 #EXTINF:-1 xmltv-id="TV1" tvg-id="TV1" group-title="Asia Channel" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032126911a3z.png",TV1
@@ -915,31 +915,31 @@ http://vp2p2s.my6868.cc/20413/index.m3u8
 
 //SPORT
 
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS", ASTRO SUPERSPORT 1
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sports", ASTRO SUPERSPORT 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AS2.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS", ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-id="AS2.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sports", ASTRO SUPERSPORT 2
 http://newhostshare.ddns.net:9981/stream/service/6c7cadd7615014a39488bba1af1af7fe?ticket=f221GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi53
 
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS",ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sports",ASTRO SUPERSPORT 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AS4.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="SPORTS",ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-id="AS4.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/supersport1.png" group-title="Sports",ASTRO SUPERSPORT 4
 http://newhostshare.ddns.net:9981/stream/service/9b4267cd07d0f076b723b83e74b5b8da?ticket=af0d51a8d2be8042320ff1780269373e6510626d
 
-#EXTINF: -1 tvg-id="Sporttv1.MY" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="SPORTS",Sport TV 1
+#EXTINF: -1 tvg-id="Sporttv1.MY" tvg-logo="https://picon-13398.kxcdn.com/sporttv1pt.jpg" group-title="Sports",Sport TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 
-#EXTINF: -1 tvg-id="Sporttv2.MY" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pt.jpg" group-title="SPORTS",Sport TV 2
+#EXTINF: -1 tvg-id="Sporttv2.MY" tvg-logo="https://picon-13398.kxcdn.com/sporttv2pt.jpg" group-title="Sports",Sport TV 2
 https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 
-#EXTINF: -1 tvg-id="Sporttv3.MY" tvg-logo="https://picon-13398.kxcdn.com/sporttv3pt.jpg" group-title="SPORTS",Sport TV 3
+#EXTINF: -1 tvg-id="Sporttv3.MY" tvg-logo="https://picon-13398.kxcdn.com/sporttv3pt.jpg" group-title="Sports",Sport TV 3
 https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 
-#EXTINF: -1 tvg-id="Sporttv4.MY" tvg-logo="https://picon-13398.kxcdn.com/sporttv4pt.jpg" group-title="SPORTS",Sport TV 4
+#EXTINF: -1 tvg-id="Sporttv4.MY" tvg-logo="https://picon-13398.kxcdn.com/sporttv4pt.jpg" group-title="Sports",Sport TV 4
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 
-#EXTINF: -1 tvg-id="Sporttv5.MY" tvg-logo="https://picon-13398.kxcdn.com/sporttv4pt.jpg" group-title="SPORTS",Sport TV 5
+#EXTINF: -1 tvg-id="Sporttv5.MY" tvg-logo="https://picon-13398.kxcdn.com/sporttv4pt.jpg" group-title="Sports",Sport TV 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="EP1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" group-title="Sports",Premier HD1
@@ -1052,56 +1052,56 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 
 
 
-#EXTINF:-1 xmltv-id="Astro AEC HD" tvg-id="Astro AEC HD" group-title="Astrol" tvg-logo="https://logodix.com/logo/2120508.png", ASTRO AEC
+#EXTINF:-1 xmltv-id="Astro AEC HD" tvg-id="Astro AEC HD" group-title="Asia Channel" tvg-logo="https://logodix.com/logo/2120508.png", ASTRO AEC
 http://vp2p2s.my6868.cc/20418/index.m3u8
-#EXTINF:-1 xmltv-id="ASTRO AOD" tvg-id="ASTRO AOD" group-title="Astrol" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
+#EXTINF:-1 xmltv-id="ASTRO AOD" tvg-id="ASTRO AOD" group-title="Asia Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9e/Astro_AOD.jpg", ASTRO AOD
 http://vp2p2s.my6868.cc/20419/index.m3u8
-#EXTINF:-1 xmltv-id="BOO HD" tvg-id="BOO HD" group-title="Astrol" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", ASTRO BOO
+#EXTINF:-1 xmltv-id="BOO HD" tvg-id="BOO HD" group-title="Asia Channel" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/404_160.png", ASTRO BOO
 http://vp2p2s.my6868.cc/20420/index.m3u8
-#EXTINF:-1 tvg-id="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ria.png" group-title="Astrol", ASTRO RIA
+#EXTINF:-1 tvg-id="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ria.png" group-title="Asia Channel", ASTRO RIA
 http://vp2p2s.my6868.cc/20421/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Astrol", DRAMA SANGAT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/drama%20sangat.png" group-title="Asia Channel", DRAMA SANGAT
 http://vp2p2s.my6868.cc/20423/index.m3u8
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Astrol", ASTRO WARNA
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Asia Channel", ASTRO WARNA
 http://vp2p2s.my6868.cc/20424/index.m3u8
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Astrol", ASTRO CITRA
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Asia Channel", ASTRO CITRA
 http://vp2p2s.my6868.cc/20425/index.m3u8
-#EXTINF:-1 xmltv-id="Go Shop 118" tvg-id="Go Shop 118" group-title="Astrol" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg", ASTRO GO SHOP
+#EXTINF:-1 xmltv-id="Go Shop 118" tvg-id="Go Shop 118" group-title="Asia Channel" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg", ASTRO GO SHOP
 http://vp2p2s.my6868.cc/20426/index.m3u8
 #EXTINF:-1 tvg-id="Vas.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png" group-title="Asia Channel", VASANTHAM
 http://vp2p2s.my6868.cc/20490/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" group-title="Astrol", AL HIJRAH
+#EXTINF:-1, tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" group-title="Asia Channel", AL HIJRAH
 http://vp2p2s.my6868.cc/20491/index.m3u8
 #EXTINF:-1 tvg-id="Sur.SG" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png" group-title="Asia Channel", SURIA
 http://vp2p2s.my6868.cc/20492/index.m3u8
-#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="KIDS", ASTRO CERIA
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/ceria.png" group-title="Kids", ASTRO CERIA
 http://vp2p2s.my6868.cc/20494/index.m3u8
-#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/astro%20cricket.png" group-title="SPORTS", ASTRO CRICKET
+#EXTINF:-1 tvg-name="305" tvg-id=".Asia" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/astro%20cricket.png" group-title="Sports", ASTRO CRICKET
 http://vp2p2s.my6868.cc/20470/index.m3u8
-#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Astrol", ASTRO OASIS
+#EXTINF:-1, tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="Asia Channel", ASTRO OASIS
 http://vp2p2s.my6868.cc/20471/index.m3u8
-#EXTINF:-1 tvg-id=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png" group-title="KIDS", NICKELODEON
+#EXTINF:-1 tvg-id=".MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/nickelodeon.png" group-title="Kids", NICKELODEON
 http://vp2p2s.my6868.cc/20472/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="Astrol", ASTRO NAURA
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="Asia Channel", ASTRO NAURA
 http://vp2p2s.my6868.cc/20474/index.m3u8
 #EXTINF:-1 xmltv-id="ONE HD" tvg-id="ONE HD" group-title="Asia Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png", ONE
 http://vp2p2s.my6868.cc/20475/index.m3u8
-#EXTINF:-1 xmltv-id="rtms" tvg-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="SPORTS", RTM SPORT
+#EXTINF:-1 xmltv-id="rtms" tvg-id="RTM Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-chno="42" channel-id="42" group-title="Sports", RTM SPORT
 http://vp2p2s.my6868.cc/20476/index.m3u8
-#EXTINF:-1 tvg-id="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/prima.png" group-title="Astrol", ASTRO PRIMA
+#EXTINF:-1 tvg-id="Hel.MY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/prima.png" group-title="Asia Channel", ASTRO PRIMA
 http://vp2p2s.my6868.cc/20477/index.m3u8
-#EXTINF:-1,  tvg-logo="https://dwglogo.com/wp-content/uploads/2019/02/1600px_IQiyi_logo.png",  group-title="Astrol", IQIYI
+#EXTINF:-1,  tvg-logo="https://dwglogo.com/wp-content/uploads/2019/02/1600px_IQiyi_logo.png",  group-title="Asia Channel", IQIYI
 http://vp2p2s.my6868.cc/20469/index.m3u8
 #EXTINF:-1 tvg-id="Hel.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="Asia Channel", HELLO
 http://vp2p2s.my6868.cc/20468/index.m3u8
-#EXTINF:-1 tvg-id="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Astrol", ASTRO AWANI
+#EXTINF:-1 tvg-id="Awa.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428094_ico.png" group-title="Asia Channel", ASTRO AWANI
 http://vp2p2s.my6868.cc/20467/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/a0/f4/9d/a0f49d3ffe1e062c1261f2e2358c6bf0.jpg" group-title="KIDS",DISNEY JR
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/a0/f4/9d/a0f49d3ffe1e062c1261f2e2358c6bf0.jpg" group-title="Kids",DISNEY JR
 http://vp2p2s.my6868.cc/20395/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="Asia Channel",RTM OKEY
 http://vp2p2s.my6868.cc/20394/index.m3u8
-#EXTINF:-1  tvg-logo="https://www.bernama.com/bm/img/bernama.png", group-title="NEWS",BERNAMA
+#EXTINF:-1  tvg-logo="https://www.bernama.com/bm/img/bernama.png", group-title="News",BERNAMA
 http://vp2p2s.my6868.cc/20399/index.m3u8
 #EXTINF:-1  tvg-logo="https://1.bp.blogspot.com/-KJDT0M0Dxps/WnFTuqoK7FI/AAAAAAAAHEI/ROo_jjVjxqA1goBTkwRG5ladyMFCg0opACLcBGAs/s640/celestial%2Bclassic%2Bmovies.jpeg" group-title="MOVIES",CCM
 http://vp2p2s.my6868.cc/20396/index.m3u8
@@ -1115,9 +1115,9 @@ http://vp2p2s.my6868.cc/50005/index.m3u8
 http://vp2p2s.my6868.cc/50006/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="KNOWLEDGE", HISTORY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="Knowledge", HISTORY
 http://vp2p2s.my6868.cc/50041/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1280px-2019_Discovery_logo.svg.png" group-title="KNOWLEDGE", DISCOVERY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1280px-2019_Discovery_logo.svg.png" group-title="Knowledge", DISCOVERY
 http://vp2p2s.my6868.cc/50043/index.m3u8
 
 //VOD
