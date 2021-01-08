@@ -59,12 +59,6 @@ http://stream1.ninmedia.tv:1935/gemilangtv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="Indonesia",JAMBI TV (OTTO)
 http://stream1.ninmedia.tv:1935/jambitv/rtmp.stream_360p/playlist.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="Malaysia-Singapore",Live Makkah (OTTO)
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png" group-title="Indonesia",Maleo (OTTO)
